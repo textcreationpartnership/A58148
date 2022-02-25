@@ -1,0 +1,954 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The revolution in New England justified and the people there vindicated from the aspersions cast upon them by Mr. John Palmer in his pretended answer to the declaration published by the inhabitants of Boston and the country adjacent, on the day when they secured their late oppressors, who acted by an illegal and arbitrary commission from the late King James.</title>
+            <author>Rawson, Edward, 1615-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 130 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58148</idno>
+            <idno type="STC">Wing R376</idno>
+            <idno type="STC">ESTC W479499</idno>
+            <idno type="EEBO-CITATION">13020011</idno>
+            <idno type="OCLC">ocm 13020011</idno>
+            <idno type="VID">96623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 398:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The revolution in New England justified and the people there vindicated from the aspersions cast upon them by Mr. John Palmer in his pretended answer to the declaration published by the inhabitants of Boston and the country adjacent, on the day when they secured their late oppressors, who acted by an illegal and arbitrary commission from the late King James.</title>
+                  <author>Rawson, Edward, 1615-1693.</author>
+                  <author>Sewall, Samuel, 1652-1730.</author>
+                  <author>Mather, Increase, 1639-1723.</author>
+               </titleStmt>
+               <extent>[6], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Brunning at Boston in New England,</publisher>
+                  <pubPlace>[Boston] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: E.R. and S.S.</note>
+                  <note>"E.R. and S.S. undoubtedly stand for Edward Rawson and Samuel Sewall, as Palfrey, III, 514, states"--Whitmore, W.H. Andros tracts, 1868, v. 1, p. 69; BM. Authorship has also been ascribed to Increase Mather.</note>
+                  <note>First ed. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Palmer, John, 1650-1700? --  Impartial account of the state of New England.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96623:1" rendition="simple:additions"/>
+            <pb facs="tcp:96623:1"/>
+            <p>THE REVOLUTION IN New England JUSTIFIED, And the People there Vindicated From the Aſperſions caſt upon them By Mr. <hi>JOHN PALMER,</hi> In his Pretended Anſwer to the Declaration, Publiſhed by the Inhabitants of <hi>Boſton,</hi> and the Country adjacent, on the day when they ſe<g ref="char:EOLhyphen"/>cured their late Oppreſſors, who acted by an Illegal and Arbitrary Commiſſion from the Late King <hi>JAMES.</hi>
+            </p>
+            <p>Printed for <hi>Joſeph Brunning</hi> at <hi>Boſton</hi> in <hi>New England.</hi> 1691.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96623:2"/>
+            <pb facs="tcp:96623:2"/>
+            <head>TO THE READER.</head>
+            <p>IT is not with any deſign or deſire unneceſſarily to ex<g ref="char:EOLhyphen"/>poſe the late Oppreſſors of that good Proteſtant People which is in <hi>New England,</hi> that the Authors of the enſuing <hi>Vindication</hi> have publiſhed what is herewith emit<g ref="char:EOLhyphen"/>ted. But the <hi>Agents</hi> lately ſent from thence could not be faithful to their Truſt, if when the People whom they Repre<g ref="char:EOLhyphen"/>ſent are publickly (as well as privately) <hi>aſperſed,</hi> they ſhould not (either by themſelves, or by furniſhing ſome other with materials for ſuch an undertaking) <hi>vindicate</hi> thoſe who have been ſo deeply injured.</p>
+            <p>As for Mr. <hi>Palmer</hi> his Account which he calls <hi>Impar<g ref="char:EOLhyphen"/>tial,</hi> he has wrong'd <hi>New England</hi> thereby, in ſome other particulars beſides thoſe inſiſted on, in the ſubſequent <hi>Apo<g ref="char:EOLhyphen"/>logy.</hi> For he does endeavour to make the World believe that the <hi>Maſſachuſetts</hi> refuſed to anſwer to the <hi>Quo War<g ref="char:EOLhyphen"/>ranto</hi> proſecuted againſt their <hi>Charter:</hi> Than which Miſ<g ref="char:EOLhyphen"/>repreſentation nothing can be more untrue or injurious. An Account concerning that matter hath formerly (and more than once) been made publick, in the which it is moſt truly affirmed, <q>That when the <hi>Quo Warranto</hi> was iſſued out againſt the Governour and Company of the <hi>Maſſachuſetts</hi>
+                  <pb facs="tcp:96623:3"/>
+Colony in <hi>New England</hi> in the year <hi>1683.</hi> the then King did by his Declaration enjoyn a few particular per<g ref="char:EOLhyphen"/>ſons to make their Defence at their own Charge, without any publick Stock; which ſhew'd that there was a Re<g ref="char:EOLhyphen"/>ſolution to take away that Charter: Yet the Governour and Company appointed an Attorney to anſwer to the <hi>Quo Warranto;</hi> but the Suit was let fall in the Court of <hi>Kings-Bench,</hi> and a new Suit began by <hi>Scire facias</hi> in Court of <hi>Chancery,</hi> where time was not allow'd to make Defence. The former Attorney for that Colony brought ſe<g ref="char:EOLhyphen"/>veral Merchants to teſtifie that in the time allow'd (which was from <hi>April 16.</hi> till <hi>June 18.</hi>) it was impoſsible to have a New Letter of Attorney returned from <hi>New England.</hi> The then Lord Keeper <hi>North</hi> replied, That no time ought to be given. So was Judgment entred againſt them before they could poſsibly plead for themſelves.</q> By this the Impartial Reader may judge what Ingenuity and Veracity is in Mr. <hi>Palmers</hi> Account.</p>
+            <p>There is lately come forth another <hi>Scandalous Pam<g ref="char:EOLhyphen"/>phlet,</hi> called <hi>New England's Faction Diſcovered.</hi> The Author has not put his Name to it: But it is ſuppoſed to be written by a certain perſon known to be a Prodigy for Impudence and Lying. The Reflections in it not only on <hi>New England</hi> in general, but on particular perſons there as well as in <hi>England,</hi> are ſo notoriouſly and maliciouſly falſe, as that it muſt needs be much beneath a great Mind to take notice of ſuch <hi>Latrations,</hi> or to anſwer them any
+<pb facs="tcp:96623:3"/>
+otherwiſe than with contempt. When we are treated with the Buffoonry and Railery of ſuch ungentiel Pens, 'tis good to remember the old Saying, <hi>Magnum Contume<g ref="char:EOLhyphen"/>liae remedium, Negligentia.</hi>
+            </p>
+            <p>As for what Mr. <hi>Palmer</hi> does in his Preface inſinuate concerning the <hi>New-Englanders</hi> being <hi>Common<g ref="char:EOLhyphen"/>wealths-men, Enemies to Monarchy, and to the Church of England,</hi> that's ſuch a <hi>Sham</hi> as every one ſees through it.</p>
+            <p>There are none in the World that do more fully concur with the <hi>Doctrine</hi> of the Church of <hi>England</hi> contained in the <hi>39</hi> Articles, than do <hi>the Churches in New England,</hi> as is manifeſt from the Confeſsion of their Faith publiſhed in the year <hi>1680.</hi> Only as to <hi>Liturgy and Ceremonies</hi> they differ; for which cauſe alone it was that they, or their Fathers tranſported themſelves into that <hi>American Deſert,</hi> as being deſirous to worſhip God in that way which they thought was moſt according to the Scriptures. The <hi>Platform of Church Diſcipline</hi> con<g ref="char:EOLhyphen"/>ſented unto by the Elders and Meſſengers of the Churches Aſſembled in a General Synod at <hi>Cambridge</hi> in <hi>New England</hi> in the year <hi>1647.</hi> ſheweth that they are as to <hi>Church-Government</hi> for the <hi>Congregational way.</hi> The judiciouſly Learned Mr. <hi>Philip Nye</hi> has long ſince evinced, that no Form of Church-Government (no not that which is Epiſcopal) is more conſiſtent with Monarchy, or with the King's Supremacy, than that of the <hi>Way-Con<g ref="char:EOLhyphen"/>gregational,</hi>
+               <pb facs="tcp:96623:4"/>
+which ſome will needs call <hi>Independent.</hi> But there are a ſort of men, who call thoſe that are for <hi>Engliſh</hi> Liberties, and that rejoyce in the Government of Their preſent Majeſties King <hi>William</hi> and Queen <hi>Mary,</hi> by the name of <hi>Republicans,</hi> and repreſent all ſuch as Enemies of Monarchy and of the Church. It is not our ſingle Opinion only, but we can ſpeak it on behalf of the generality of Their Majeſties Subjects in <hi>New England,</hi> that they believe (without any diminution to the Glory of our former Princes) the <hi>Engliſh</hi> Nation was never ſo happy in a <hi>King,</hi> or in a <hi>Queen,</hi> as at this day. And the God of Heaven, who has ſet them on the Throne of theſe Kingdoms, grant them long and proſperouſly to Reign.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>E. R.</hi>
+                     </item>
+                     <item>
+                        <hi>S. S.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96623:4"/>
+            <head>THE Revolution in <hi>New England</hi> juſtified.</head>
+            <p>THE Doctrine of <hi>Paſſive Obedience</hi> and <hi>Non-Reſiſtance,</hi> which a ſort of men did of late when they thought the World would never change, cry up as Divine Truth, is by means of the happy <hi>Revolution</hi> in theſe Nations, exploded, and the Aſ<g ref="char:EOLhyphen"/>ſertors of it become ridiculous.</p>
+            <p>No man does really approve of the <hi>Revolution</hi> in <hi>England,</hi> but muſt juſtifie that in <hi>New England</hi> alſo; for the latter was effect<g ref="char:EOLhyphen"/>ed in compliance with the former, neither was there any de<g ref="char:EOLhyphen"/>ſign amongſt the <hi>People in New England,</hi> to reaſſume their An<g ref="char:EOLhyphen"/>tient <hi>Charter-Government,</hi> until His preſent Majeſties intended deſcent into <hi>England,</hi> to reſcue the Nation from <hi>Slavery</hi> as well as <hi>Popery,</hi> was known to them (for indeed to have attempted it before that would have been madneſs.) They conſidered that the men then uſurping Government in <hi>New England</hi> were King <hi>James</hi>'s Creatures, who had invaded both the <hi>Liberty and Pro<g ref="char:EOLhyphen"/>perty of Engliſh Proteſtants</hi> after ſuch a manner as perhaps the like was never known in any part of the World where the <hi>Engliſh</hi> Nation has any Government: And the <hi>Commiſſion</hi> which they had obtained from the Late King <hi>James</hi> was more Illegal and Arbitrary, than that granted to <hi>Dudley</hi> and <hi>Empſon</hi> by King <hi>Henry</hi> 7th. or than it may be was ever before given to any by King <hi>James</hi> himſelf, or by any one that ever ſwayed the <hi>Engliſh</hi> Scepter, which was a Grievance intolerable; and yet they de<g ref="char:EOLhyphen"/>ſired not to make themſelves Judges in a caſe which ſo nearly concerned them, but inſtead of harſher treatment of thoſe who had Tyrannized over them, they only, ſecured them that they might not betray that Countrey into the hands of <hi>the Late King,</hi> or of King <hi>Lewis,</hi> which they had reaſon enough to believe (conſidering their Characters and Diſpoſitions,) they were in<g ref="char:EOLhyphen"/>clined to do. They deſigned not to revenge themſelves on
+<pb n="2" facs="tcp:96623:5"/>
+their Enemies, which they could as eaſily have done as a thou<g ref="char:EOLhyphen"/>ſand men are able to kill one, and therefore when they ſecured their Perſons, they declared (as in their <hi>Declaration</hi> Printed at <hi>Boſton</hi> in <hi>New England</hi> is to be ſeen) that they would <hi>leave it to the King and Parliament of</hi> England, <hi>to inflict what puniſhment they ſhould think meet for ſuch Criminals.</hi> Their ſeizing and ſecuring the Governour, was no more than was done in <hi>England,</hi> at <hi>Hull, Dover, Plimouth, &amp;c.</hi> That ſuch a man as Mr. <hi>John Palmer</hi> ſhould exclaim againſt it, is not to be wondred at, ſeeing he was one of the Governours Tools, being of his Council, made a Judge by him, and too much concern'd in ſome Illegal and Arbitrary Pro<g ref="char:EOLhyphen"/>ceedings: But his Confidence is wonderful, that he ſhould pub<g ref="char:EOLhyphen"/>liſh in Print that neither himſelf nor Sir <hi>Edmund Androſſe,</hi> nor others of them who had been ſecured by the People in <hi>New England, had any Crimes laid to their charge,</hi> whereas the fore<g ref="char:EOLhyphen"/>ſaid Declaration emitted the very day they were ſecured, doth plainly ſet forth their Crimes. And in the Preface of his Book he hath theſe words; <hi>viz.</hi>
+            </p>
+            <p>
+               <q>We appeared at the Council-Board where the worſt of our Ene<g ref="char:EOLhyphen"/>mies, even the very men who had ſo unjuſtly impriſoned and de<g ref="char:EOLhyphen"/>tained us, had nothing to ſay or object againſt us</q>—By theſe Enemies he ſpeaks of, we ſuppoſe he means thoſe who were lately ſent as <hi>Agents</hi> from <hi>Boſton</hi> in <hi>New England;</hi> He hath therefore neceſſitated us to inform the World, that the follow<g ref="char:EOLhyphen"/>ing Objections (tho' not by his Enemies, yet) by thoſe <hi>Agents</hi> preſented at the Council-Board.</p>
+            <floatingText xml:lang="eng" type="objections">
+               <body>
+                  <head>Matters objected againſt Sir <hi>Edmund Androſſe,</hi> Mr. <hi>Joſeph Dudley,</hi> Mr. <hi>Palmer,</hi> Mr. <hi>Randolph,</hi> Mr. <hi>Weſt,</hi> Mr. <hi>Gra<g ref="char:EOLhyphen"/>ham,</hi> Mr. <hi>Farewell,</hi> Mr. <hi>Sherlock</hi> and others, as occaſions of their Impriſonment in <hi>New England.</hi>
+                  </head>
+                  <p n="1">1. IT is objected againſt Sir <hi>Edmund Androſſe,</hi> that he being Governour of the <hi>Maſſachuſetts</hi> Colony after notice of His preſent Majeſties intention to land in <hi>England,</hi> iſſued out a Proclamation, requiring all perſons to oppoſe any deſcent of ſuch as might be authorized by him, endeavour'd to ſtifle the News of his Landing, and cauſed him that brought this Kings Declaration thither to be impriſoned as bringing a Se<g ref="char:EOLhyphen"/>ditious and Treaſonable Paper.</p>
+                  <p n="2">
+                     <pb n="3" facs="tcp:96623:5"/>2. That in the time of his Government, he without form or colour of legal Authority made laws deſtructive of the Li<g ref="char:EOLhyphen"/>berty of the People, impoſed and levied Taxes, threatned and impriſoned them that would not be aſſiſting to the illegal Levys, denied that they had any Property in their Lands with<g ref="char:EOLhyphen"/>out Patents from him, and during the time of actual War with the <hi>Indians,</hi> he did ſupply them with Ammunition, and ſeveral <hi>Indians</hi> declared, that they were encouraged by him to make War upon the <hi>Engliſh,</hi> and he diſcountenanced making defence againſt the <hi>Indians.</hi>
+                  </p>
+                  <p n="3">3. As to all the other perſons impriſoned, they were Ac<g ref="char:EOLhyphen"/>complices and Confederates with Sir <hi>Edmund Androſſe,</hi> and particularly Mr. <hi>Dudley,</hi> Mr. <hi>Randolph,</hi> and Mr. <hi>Palmer</hi> were of his Council, and joined with him in his Arbitrary Laws and Impoſitions, and in threatning and in puniſhing them who would not comply. Mr. <hi>Weſt</hi> was his Secretary, and guilty of great Extortion, and gave out words which ſhewed himſelf no Friend to the <hi>Engliſh.</hi> Mr. <hi>Graham</hi> was his At<g ref="char:EOLhyphen"/>torney at one time, and Mr. <hi>Farewell</hi> at another, both con<g ref="char:EOLhyphen"/>cerned in illegal proceedings deſtructive of the Property of the Subject. Mr. <hi>Farewell</hi> proſecuted them who refuſed to comply with the Illegal Levies, and Mr. <hi>Graham</hi> brought ſe<g ref="char:EOLhyphen"/>veral Writs of Intruſion againſt men for their own Land, and Mr. <hi>Sherlock,</hi> another perſon impriſoned, though not named in the Order, acted there for ſome years as an High Sheriff, though he was a ſtranger in the Countrey, and had no Eſtate there, during his Shrievalty he impannelled Juries of Strangers, who had no Free-hold in that Countrey, and extorted unrea<g ref="char:EOLhyphen"/>ſonable Fees.</p>
+               </body>
+            </floatingText>
+            <p>Theſe particulars were not only preſented at the <hi>Council-Board,</hi> but there read before the Right Honourable the Lords of the Committee for Foreign Plantations, on <hi>April</hi> 17. 1690. when Sir <hi>Edmund Androſſe,</hi> Mr. <hi>Palmer,</hi> and the reſt concerned were preſent, and owned that they had received Copies thereof from Mr. <hi>Blaithwaite.</hi> It is true, that the Paper then read was not ſigned by the Agents aforeſaid, for which reaſon (as we un<g ref="char:EOLhyphen"/>derſtand, nor could it rationally be otherwiſe expected) the matter was diſmiſſed without an hearing: Nevertheleſs the Gentlemen who appeared as Counſel for the <hi>New England</hi>
+               <pb n="4" facs="tcp:96623:6"/>
+Agents, declared, That they were ready to prove every Article of the Objections; which ſhall now be done.</p>
+            <p n="1">1. That Sir <hi>E. A.</hi> with others whom the People in <hi>New England</hi> ſeized and ſecured, did, <hi>after notice of His preſent Majeſties intended deſcent into</hi> England <hi>to deliver the Nation from Popery and Arbitrary Power, to their utmost oppoſe that glorious de<g ref="char:EOLhyphen"/>ſign,</hi> is manifeſt by the <hi>Proclamation</hi> Printed and Publiſhed in <hi>New England, Jan.</hi> 10. 1688. ſigned by Sir <hi>E. A.</hi> and His De<g ref="char:EOLhyphen"/>puty Secretary <hi>John Weſt,</hi> in which K. <hi>James</hi>'s Proclamation of <hi>Octob.</hi> 16. 1688. is recited and referred unto. Sir <hi>Edmunds</hi> Procla<g ref="char:EOLhyphen"/>mation begins thus; <q>Whereas His Majeſty hath been graciouſly pleaſed by His Royal Letter bearing date the 16th of <hi>October</hi> laſt paſt, to ſignifie that He hath undoubted Advice that a great and ſudden <hi>Invaſion from Holland,</hi> with an armed Force of Foreigners and Strangers will be ſpeedily made in an ho<g ref="char:EOLhyphen"/>ſtile manner upon His Majeſties Kingdom of <hi>England,</hi> and that although ſome falſe <hi>Pretences relating to Liberty, Property and Religion, &amp;c.</hi> And then he concludes thus—All which it is His Majeſties pleaſure ſhould be made known in the moſt publick manner to His Loving Subjects within this His Ter<g ref="char:EOLhyphen"/>ritory and Dominion of <hi>New England,</hi> that they may be the better prepared to <hi>reſiſt any Attempts</hi> that may be made by His Majeſties Enemies <hi>in theſe parts,</hi> I do therefore here<g ref="char:EOLhyphen"/>by charge and <hi>command all Officers Civil and Military, and all other His Majeſties Loving Subjects within this His Territory</hi> and Dominion aforeſaid, to be vigilant and careful in their reſpective places and ſtations, and <hi>that upon the approach of any Fleet or Foreign Force, they be in readineſs, and uſe their utmost endeavours to hinder any Landing or Invaſion</hi> that may be intend<g ref="char:EOLhyphen"/>ed to be made within the ſame.</q>
+            </p>
+            <p n="2">2. And that they uſed all imaginable endeavours <hi>to ſtifle the News of the Prince's Landing in England,</hi> appears not only from the Teſtimony of the People there, and from the Letters of thoſe now in Government at <hi>Boſton,</hi> but from the depoſition of Mr. <hi>John Winſtow,</hi> who affirms that being in <hi>Nevis</hi> in <hi>Feb.</hi> 1688. a Ship arrived there from <hi>England</hi> with <hi>the Prince of Orange's</hi> Declaration, and intelligence of the happy change of Affairs in <hi>England,</hi> which he knew would be <hi>welcom News in New England,</hi> and therefore was at the charge to pro<g ref="char:EOLhyphen"/>cure
+<pb n="5" facs="tcp:96623:6"/>
+a written Copy of that Princely Declaration with which he arrived at <hi>Boſton</hi> about a fortnight before the <hi>Revolution</hi> there. He concealed the Declaration from Sir <hi>Edmund,</hi> becauſe he be<g ref="char:EOLhyphen"/>lieved if it came into his poſſeſſion, he would keep the people in ignorance concerning it; but intimation being given that Mr. <hi>Winſtow</hi> had brought with him the Declaration, he was therefore committed to Priſon (though he offered two thou<g ref="char:EOLhyphen"/>ſand pound Bayl) for bringing into the Country <hi>a Treaſonable Paper.</hi> For the ſatisfaction of ſuch as are willing to be inform<g ref="char:EOLhyphen"/>ed in this matter, Mr. <hi>Winſtow</hi>'s teſtimony as it was given upon Oath before a Magiſtrate in <hi>New England</hi> ſhall be here inſerted. It is as follows.</p>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>John Winſlow</hi> aged 24 years or thereabouts, teſtifieth and ſaith, that he being in <hi>Nevis</hi> ſome time in <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> laſt paſt, there came in a Ship from ſome part of <hi>England</hi> with the Prince of <hi>Orange</hi>'s Declarations, and brought news alſo of his happy proceedings in <hi>England</hi> with his entrance there, which was very welcome News to me, and I knew it would be ſo to the reſt of the people in <hi>New England;</hi> and I being bound thither, and very willing to carry ſuch good news with me, gave four ſhillings ſix pence for the ſaid Declarations, on purpoſe to let the people in <hi>New England</hi> underſtand what a ſpeedy deliverance they might expect from Arbitrary Power. We arrived at <hi>Boston</hi> Harbour the fourth day of <hi>April</hi> following, and aſſoon as I came home to my houſe, Sir <hi>Ed<g ref="char:EOLhyphen"/>mund Androſſe</hi> underſtanding I brought the Prince's Declarati<g ref="char:EOLhyphen"/>ons with me, ſent the Sheriff to me; ſo I went along with him to the Governours houſe, and aſſoon as I came in, he asked me why I did not come and tell him the news. I told him I thought it not my duty, neither was it cuſtomary for any Paſ<g ref="char:EOLhyphen"/>ſenger to go to the Governour when the Maſter of the Ship had been with him before, and told him the news; he asked me where the Declarations I brought with me were, I told him I could not tell, being afraid to let him have them, becauſe he would not let the people know any news. He told me I was a Saucy fellow, and bid the Sheriff carry me away to the Juſtices of the Peace, and as we were going, I told the Sheriff, I would chooſe my Juſtice, he told me, no, I muſt go before Doctor <hi>Bullivant, one pickt on purpoſe</hi> (as I Judged) <hi>for the buſineſs;</hi> well I told him, I did not care
+<pb n="6" facs="tcp:96623:7"/>
+who I went before, for I knew my cauſe good, ſo ſoon as I came in, two more of the Juſtices dropt in, <hi>Charles Lidget</hi> and <hi>Francis Foxcroft,</hi> ſuch as the former, <hi>fit for the purpoſe,</hi> ſo they asked me for my Papers, I told them I would not let them have them by reaſon they kept all the news from the people, ſo when they ſaw they could not get what I bought with my money, they ſent me to Priſon for bringing <hi>Traiterous and Treaſonable Libels</hi> and Papers of News, notwithſtanding, I of<g ref="char:EOLhyphen"/>fered them ſecurity to the value of two thouſand pounds.</p>
+                  <closer>
+                     <signed>John Winſlow.</signed> 
+                     <dateline>
+                        <hi>Boston</hi> in <hi>New England,</hi> 
+                        <date>
+                           <hi>Feb.</hi> 4. 1689.</date>
+                     </dateline> 
+                     <signed>ſworn before <hi>Eliſha Hutchin<g ref="char:EOLhyphen"/>ſon</hi> Aſſiſtant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>By theſe things it appears that it was abſolutely neceſſary for the people in <hi>New England</hi> to ſeize Sir <hi>E. A.</hi> and his Compli<g ref="char:EOLhyphen"/>ces, that ſo they might ſecure that territory for their preſent Majeſties King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </p>
+            <p n="3">3. That Sir <hi>E. A.</hi> &amp;c. did <hi>make Laws destructive to the liberty of the Subjects,</hi> is notoriouſly known, for they made what Laws they pleaſed <hi>without any conſent of the People, either by themſelves or repreſentatives,</hi> which is indeed to <hi>destroy the Fundamentals of the Engliſh,</hi> and to <hi>Erect a French Government.</hi> We cannot learn that the like was ever practiſed in any place where the Engliſh are Planters, but only where Sir <hi>E. A.</hi> hath been Governour: For whereas in <hi>New-England</hi> by conſtant uſage under their Char<g ref="char:EOLhyphen"/>ter Government, the Inhabitants of each Town did aſſemble as occaſion offered to conſider of what might conduce to the wel<g ref="char:EOLhyphen"/>fare of their reſpective Towns, the relief of the poor, or the like, Sir, <hi>E. A. with a few of his council,</hi> made a Law prohibit<g ref="char:EOLhyphen"/>ing any Town meeting, except once a year, <hi>viz.</hi> on the third Monday in <hi>May.</hi> The Inhabitants of the Countrey were ſtartled at this Law, as being apprehenſive the deſign of it was to prevent the people in every Town from meeting to make complaints of their Grievances. And whereas by conſtant uſage any perſon might remove out of the Countrey at his pleaſure, a Law was made that no man ſhould do ſo without the Governours leave. And all Fiſhing Boats, Coaſters, <hi>&amp;c.</hi> were to enter into a thou<g ref="char:EOLhyphen"/>ſand pound bond, whereby Fees were raiſed for himſelf and
+<pb n="7" facs="tcp:96623:7"/>
+creatures. This Law could not paſs at <hi>Boſton,</hi> becauſe many of Sir <hi>Edmund</hi>'s Council there oppoſed it; but then a <hi>Juncto</hi> of them meeting at <hi>New-York,</hi> paſſed it; and after that Law was made, how ſhould any diſſatisfied perſons ever obtain liberty to go for <hi>England</hi> to complain of their being oppreſſed by <hi>Arbi<g ref="char:EOLhyphen"/>trary Governours?</hi>
+            </p>
+            <p n="4">4. But beſides all this, They made Laws for the <hi>Levying Mo<g ref="char:EOLhyphen"/>neys without the conſent of the People either by themſelves or by an Aſſembly;</hi> for in order to the ſupporting of their own Govern<g ref="char:EOLhyphen"/>ment, they did by an Act bearing date <hi>March</hi> 3. 1686. raiſe conſiderable ſums of Money on the Kings ſubjects in that part of his dominions, <hi>viz.</hi> a penny in the pound on all Eſtates perſonal or real, twenty pence <hi>per</hi> head as Poll Money, a penny in the pound for goods imported, beſides an Exciſe on Wine, Rum and other Liquors.</p>
+            <p>It hath indeed been pleaded that all this was but what the Laws of the Countrey before the change of the Government did allow. But this is vainly pretended, for there was no ſuch Law in force at the time when theſe ſums were levied, the for<g ref="char:EOLhyphen"/>mer Laws which did authoriſe it, were repealed <hi>Octob.</hi> 10. 1683. ſome years before Sir <hi>E. A.</hi> and his complices had invaded the Rights and Liberties of the people there. Moreover, in thoſe, parts of the Countrey where there were never any ſuch Laws in force, particularly in <hi>Plymouth</hi> Colony, this Money was levied, which they heavily complained of. Yet further, in ano<g ref="char:EOLhyphen"/>ther Act dated <hi>Feb.</hi> 15. 1687. they did without any colour of an<g ref="char:EOLhyphen"/>tient Law make an additional duty of Impoſt and Exciſe, which raiſed the duty, ſome ten ſhillings, ſome twenty ſhillings <hi>per</hi> Pipe on Wines, and ſo on other things. Nay they levied Mo<g ref="char:EOLhyphen"/>neys on <hi>Connecticot</hi> Colony contrary to their Charter, which was never vacated, than which nothing more Illegal and Arbitra<g ref="char:EOLhyphen"/>ry could have been perpetrated by them.</p>
+            <p n="5">5. They did not only act according to theſe Illegal Taxes, but they did <hi>inflict ſevere puniſhment on thoſe true Engliſh men who did op<g ref="char:EOLhyphen"/>poſe their Arbitrary proceedings,</hi> as ſhall be made to appear in ma<g ref="char:EOLhyphen"/>ny inſtances. When the Inhabitants of <hi>Ipſwich</hi> in <hi>New England</hi> were required to chooſe a Commiſſioner to tax that Town, ſome principal perſons there that could not comply with what was demanded of them, did modeſtly give their reaſons, for
+<pb n="8" facs="tcp:96623:8"/>
+which they were committed to Goal, as guilty of high miſdemea<g ref="char:EOLhyphen"/>nours, and denied an <hi>Habeas Corpus,</hi> and were obliged to anſwer it at a Court of <hi>Oyer</hi> &amp; <hi>Terminer</hi> at <hi>Boston.</hi> And that they might be ſure to be found guilty, <hi>Jurors</hi> were picked of ſuch as were no Freeholders, nay of Strangers; the Priſoners pleading <hi>the pri<g ref="char:EOLhyphen"/>viledges of Engliſh men</hi> not to be taxed without their own conſent, they were told that <hi>the Laws of</hi> England <hi>would not follow them to the end of the Earth,</hi> they meant the priviledges of the Engliſh Law, for the penalties they reſolved ſhould follow them <hi>quo jure quàque injuriâ.</hi> And why ſhould they inſiſt on, and talk of the priviledges of Engliſh men, when it had been declared in the Governours Council, that <hi>the Kings Subjects in</hi> New England <hi>did not differ much from Slaves, and that the only difference was, that they were not bought and ſold?</hi> But to go on with the matter before us; In as much as the Priſoners mentioned had aſſerted their Engliſh Liberties, they were ſeverely handled, not only impriſoned for ſeveral weeks, but fined and bound to their good behaviour; Mr. <hi>John Wiſe</hi> was fined fifty pound beſides coſts of Court, de<g ref="char:EOLhyphen"/>prived of the means of his ſubſiſtance, and gave a thouſand pound bond for good behaviour. And Mr. <hi>John Appleton</hi> was fined fifty pound and to give a thouſand pound bond for good beha<g ref="char:EOLhyphen"/>viour, and moreover declared incapable to bear Office, beſides unreaſonable Fees. After the ſame manner did they proceed with ſeveral others belonging to <hi>Ipſwich.</hi> Likewiſe the Towns men of <hi>Rowley, Salisbury, Andover,</hi> &amp;c. had the ſame meaſure. And the Kings Subjects were not only oppreſſed thus in the <hi>Maſſachuſetts</hi> Colony, but in <hi>Plymouth.</hi> For when <hi>Shadrach Wild<g ref="char:EOLhyphen"/>boar</hi> the Town Clerk of <hi>Taunton</hi> in <hi>N. E.</hi> did, with the conſent of the Town, Sign a modeſt Paper ſignifying their not being free to raiſe money on the Inhabitants without their own con<g ref="char:EOLhyphen"/>ſent by an aſſembly, the honeſt man was for this committed cloſe Priſoner, and after that puniſhed with a Fine of twenty Marks and three Months Impriſonment, and bound to find ſure<g ref="char:EOLhyphen"/>ties by Recognizance to appear the next Court, and to be of the good behaviour. As to the matter of fact, the perſons concern<g ref="char:EOLhyphen"/>ed in <hi>theſe Illegal and Arbitrary Judgments</hi> will not have the face to deny them; if they do, there are <hi>Affidavits</hi> now in <hi>London</hi> which will evince what hath been related whenever there ſhall be occaſion for it.</p>
+            <p>
+               <pb n="9" facs="tcp:96623:8"/>It is a vanity in Mr. <hi>Palmer,</hi> to think that he hath anſwered this by affirming, but not proving, that the <hi>Ipſwich-men</hi> aſſembled themſelves in a <hi>riotous manner;</hi> for that ſaying of his is very falſe. The World knows that <hi>New England</hi> is not the only place where honeſt men have in theſe late days been proceeded againſt as guilty of <hi>Riots,</hi> when they never deſerved ſuch a cenſure any more than theſe accuſed by Mr. <hi>Palmer.</hi> But the truth of what hath been thus far related is confirmed by the following <hi>Affi<g ref="char:EOLhyphen"/>davits.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affidavits">
+               <body>
+                  <head>Complaints of great wrongs done under the Ill Government of Sir <hi>Edmund Androſſe</hi> Governour in <hi>N. E.</hi> in the year 1687.</head>
+                  <p>We <hi>John Wiſe, John Andrews ſenior, Robert Kinſman, William Goodhue junior,</hi> all of <hi>Ipſwich</hi> in <hi>New England,</hi> in the County of <hi>Eſſex,</hi> about the 22d day of <hi>Auguſt,</hi> in the year above named, were with ſeveral principal Inhabitants of the Town of <hi>Ipſ<g ref="char:EOLhyphen"/>wich</hi> met at Mr. <hi>John Appletons,</hi> and there diſcourſed and con<g ref="char:EOLhyphen"/>cluded that it was not the Towns Duty any way to aſſiſt that ill method of raiſing Money without a general Aſſembly, which was apparently intended by aboveſaid Sir <hi>Edmund</hi> and his Council, as witneſs a late Act iſſued out by them for ſuch a purpoſe. The next day in a general Town-Meeting of the Inhabitants of <hi>Ipſwich;</hi> We the above named <hi>John Wiſe, John Andrews, Robert Kinſman, William Goodhue</hi> with the reſt of the Town then met (none contradicting) gave our aſſent to the vote then made.</p>
+                  <p>The ground of our trouble, our crime was the Copy tranſ<g ref="char:EOLhyphen"/>mitted to the Council, <hi>viz.</hi> At a Legal Town meeting <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 23. Aſſembled by vertue of an Order from <hi>John <g ref="char:V">Ʋ</g>ſher</hi> 
+                     <abbr>Eſq</abbr> Treaſurer for chooſing a Commiſſioner to join with the Select men, to aſſeſs the Inhabitants according to an Act of his Excellency the Governour and Council for laying of rates; the Town then conſidering that the ſaid Act doth infringe their Liberty, as free born Engliſh Subjects of His Majeſty by inter<g ref="char:EOLhyphen"/>fering with the Statute Laws of the Land, by which it was Enacted that no Taxes ſhould be Levied upon the Subjects without conſent of an Aſſembly choſen by the Freeholders for aſſeſſing of the ſame, they do therefore vote that they are not willing to chooſe a Commiſſioner for ſuch an end without ſaid priviledge; and moreover conſent not that the Select men do
+<pb n="10" facs="tcp:96623:9"/>
+proceed to lay any ſuch rate until it be appointed by a general Aſſembly concurring with the Governour and Council. We the complainants with Mr. <hi>John Appleton</hi> and <hi>Thomas French</hi> all of <hi>Ipſwich</hi> were brought to anſwer for the ſaid vote out of our own County, thirty or forty Miles into <hi>Suffolk,</hi> and in <hi>Boſton</hi> kept in Goal, only for contempt and high miſdemeanours as our <hi>Mittimus</hi> ſpecifies, and upon demand, denied the priviledge of an <hi>Habeas Corpus,</hi> and from Priſon over ruled to anſwer at a Court of <hi>Oyer</hi> and <hi>Terminer</hi> in <hi>Boſton</hi> aforeſaid. Our Judges were Mr <hi>Joſeph Dudley</hi> of <hi>Roxbury</hi> in <hi>Suffolk</hi> in <hi>New England,</hi> Mr. <hi>Stoughton</hi> of <hi>Dorcheſter, John <g ref="char:V">Ʋ</g>ſher</hi> of <hi>Boſton</hi> Treaſurer and <hi>Edward Randolph.</hi> He that officiates as Clerk and Attorny in the caſe is <hi>George Farwel.</hi>
+                  </p>
+                  <p>The Jurors only twelve men and moſt of them (as is ſaid) Non-freeholders of any Land in the Colony, ſome of them Strangers and Forreigners, gathered up (as we ſuppoſe) to ſerve the preſent turn. In our defence was pleaded the repeal of the Law of Aſſeſsment upon the place. Alſo the <hi>Magna Charta</hi> of <hi>England,</hi> and the Statute Laws that ſecure the Sub<g ref="char:EOLhyphen"/>jects Properties and Eſtates <hi>&amp;c.</hi> To which was replied by one of the Judges, the reſt by ſilence aſſenting, that we muſt not think the Laws of <hi>England</hi> follow us to the ends of the Earth, or whither we went. And the ſame perſon (<hi>John Wiſe</hi> above<g ref="char:EOLhyphen"/>ſaid teſtifies) declared in open Council upon examination of ſaid <hi>Wiſe;</hi> Mr. <hi>Wiſe</hi> you have no more priviledges left you, than not to be ſold for Slaves, and no man in Council contra<g ref="char:EOLhyphen"/>dicted. By ſuch Laws our Trial and Trouble began and end<g ref="char:EOLhyphen"/>ed. Mr. <hi>Dudley</hi> aforeſaid Chief Judge, to cloſe up the debate and trial, trims up a ſpeech that pleaſed himſelf (we ſuppoſe) more than the people. Among many other remarkable Paſ<g ref="char:EOLhyphen"/>ſages, to this purpoſe, he beſpeaks the Jury's obedience, who (we ſuppoſe) were very well preinclined. <hi>viz.</hi> I am glad, ſays he, there be ſo many worthy Gentlemen of the Jury ſo capa<g ref="char:EOLhyphen"/>ble to do the King ſervice, and we expect a good Verdict from you, ſeeing the matter hath been ſo ſufficiently proved againſt the Criminals. Note the evidence in the caſe as to the ſubſtance of it, was that we too boldly endeavoured to per<g ref="char:EOLhyphen"/>ſwade our ſelves we were Engliſh Men, and under priviledges: and that we were all ſix of us aforeſaid at the Town meeting
+<pb n="11" facs="tcp:96623:9"/>
+of <hi>Ipſwich</hi> aforeſaid, and as the Witneſs ſuppoſed, we aſſent<g ref="char:EOLhyphen"/>ed to the foreſaid Vote, and alſo that <hi>John Wiſe</hi> made a Speech at the ſame time, and ſaid we had a good God, and a good King, and ſhould do well to ſtand for our Priviledges. — Jury returns us all ſix guilty, being all involved in the ſame Information. We were remanded from Verdict to Priſon, and there kept one and twenty days for Judgement. There with Mr. <hi>Dudley</hi>'s approbation, as Judge <hi>Stoughton</hi> ſaid, this Sentence was paſſed, <hi>viz. John Wiſe</hi> ſuſpended from the Mi<g ref="char:EOLhyphen"/>niſterial Function fine fifty pound money, pay coſt, a thouſand pound bond for the good behaviour one year.</p>
+                  <p>
+                     <hi>John Appleton</hi> not to bear Office, fine 50 <abbr>
+                        <hi>l.</hi>
+                     </abbr> money, pay coſt, a thouſand pound bond for the good behaviour one year.</p>
+                  <p>
+                     <hi>John Andrews</hi> not to bear Office, fine 30 <abbr>
+                        <hi>l.</hi>
+                     </abbr> money, pay coſt, five hundred pound bond for the good behaviour one year.</p>
+                  <p>
+                     <hi>Robert Kinſman</hi> not to bear Office, fine twenty pound mo<g ref="char:EOLhyphen"/>ney, pay coſt, five hundred pound bond for the good behavi<g ref="char:EOLhyphen"/>our one year.</p>
+                  <p>
+                     <hi>William Goodhue</hi> not to bear Office, fine twenty pound mo<g ref="char:EOLhyphen"/>ney, pay coſt, five hundred pound bond for the good behavi<g ref="char:EOLhyphen"/>our one year.</p>
+                  <p>
+                     <hi>Thomas French</hi> not to bear Office, fine 15 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Money, paſt coſt, 500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> bond for the good behaviour one year.</p>
+                  <p>The Total Fees of this caſe upon one ſingle Information de<g ref="char:EOLhyphen"/>manded by <hi>Farewell</hi> aboveſaid amount to about a hundred and one pound ſeventeen ſhillings, who demanded of us ſingly about ſixteen pound nineteen ſhillings ſix pence, the coſt of Proſecution, the Fines added make up this, <hi>viz.</hi> Two hundred eighty and ſix pounds ſeventeen ſhillings money.</p>
+                  <p>
+                     <hi>Summa Totalis</hi> 286 <abbr>l.</abbr> 17 <abbr>s.</abbr>
+                  </p>
+                  <p>To all which we may add a large account of other Fees of Meſſengers, Priſon charges, Money for Bonds and Tranſ<g ref="char:EOLhyphen"/>cripts of Records, exhauſted by thoſe ill men one way and ano<g ref="char:EOLhyphen"/>ther to the value of three or fourſcore pounds, beſides our expence of time and impriſonment.</p>
+                  <p>We judge the Total charge for one Caſe and Trial under one ſingle Information involving us ſix men aboveſaid in ex<g ref="char:EOLhyphen"/>pence of Time and Moneys of us and our Relations for our ne<g ref="char:EOLhyphen"/>ceſſary Succour and Support to amount to more, but no leſs than 400 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Money.</p>
+                  <p>
+                     <pb n="12" facs="tcp:96623:10"/>Too tedious to illuſtrate more amply at this time, and ſo we conclude. <hi>John Wiſe, John Andrews</hi> Senior, <hi>William Good<g ref="char:EOLhyphen"/>hue</hi> Junior, <hi>Thomas French,</hi> theſe four perſons named, and <hi>Robert Kinſman.</hi>
+                  </p>
+                  <closer>
+                     <signed>Theſe four perſons firſt named appeared the twentieth day of <hi>December,</hi> and <hi>Robert Kinſman</hi> appeared the one and twen<g ref="char:EOLhyphen"/>tieth day of <hi>December,</hi> 1689. and gave in their Teſtimony up<g ref="char:EOLhyphen"/>on Oath before me <hi>Samuel Appleton</hi> Aſſiſtant for the Colony of the <hi>Maſſachuſetts</hi> in <hi>New-England.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p n="6">6. That thoſe who were in confederacy with Sir <hi>E. A.</hi> for the enriching themſelves on the Ruins of <hi>New-England,</hi> did <hi>In<g ref="char:EOLhyphen"/>vade the Property</hi> as well as Liberty of the Subject, is in the next place to be cleared, and we truſt will be made out beyond diſ<g ref="char:EOLhyphen"/>pute. When they little imagined that there ſhould ever be ſuch a <hi>Revolution</hi> in <hi>England</hi> as that which by means of His Preſent Majeſty this Nation is Bleſt with, they feared not to declare their Sentiments to the inexpreſſible exaſperation of the people whom they were then domineering over. They gave out that <hi>now their Charter was gone, all their Lands were the Kings,</hi> that themſelves did Repreſent the King, and that therefore Men that would have any Legal Title to their Lands muſt take <hi>Patents</hi> of them, on ſuch Terms as they ſhould ſee meet to impoſe. What people that had the Spirits of Engliſhmen, could endure this? That when they had at <hi>Vaſt Charges of their own conquered a Wil<g ref="char:EOLhyphen"/>derneſs,</hi> and been in poſſeſſion of their Eſtates Forty, nay Sixty years, that now a parcel of Strangers, ſome of them indigent enough, muſt come and inherit all that the people now in <hi>New-England</hi> and their Fathers before them, had laboured for! Let the whole Nation judge, whether theſe Men were not driving on a French deſign, and had not fairly Erected a French Go<g ref="char:EOLhyphen"/>vernment. And that our Adverſaries may not inſult and ſay, theſe are words without proof, we ſhall here ſubjoyn the Te<g ref="char:EOLhyphen"/>ſtimonies of the Reverend Mr. <hi>Higginſon</hi> and ſeveral other wor<g ref="char:EOLhyphen"/>thy Perſons, given in upon Oath, concerning this matter —</p>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>Being called by thoſe in preſent Authority to give my Te<g ref="char:EOLhyphen"/>ſtimony to the Diſcourſe between Sir <hi>Edmund Androſſe</hi> and my ſelf, when he came from the Indian War, as he paſſed through <hi>Salem</hi> going for <hi>Boſton</hi> in <hi>March</hi> 1688/9. I cannot re<g ref="char:EOLhyphen"/>fuſe it, and therefore declare as followeth, what was the ſub<g ref="char:EOLhyphen"/>ſtance
+<pb n="13" facs="tcp:96623:10"/>
+of that Diſcourſe. Sir <hi>Edmund Androſſe</hi> then Gover<g ref="char:EOLhyphen"/>nour being accompanied with the Attorney General <hi>Graham,</hi> Secretary <hi>Weſt,</hi> Judge <hi>Palmer,</hi> the Room being alſo full of other people, moſt of them his Attendants, he was pleaſed to tell me, he would have my judgment about this queſtion; <hi>Whether all the Lands in</hi> New-England <hi>were not the Kings?</hi> I told him I was ſurprized with ſuch a queſtion, and was not willing to ſpeak to it, that being a Miniſter, if it was a queſti<g ref="char:EOLhyphen"/>on about a matter of Religion, I ſhould not be averſe, but this being a State matter, I did not look upon it as proper for me to declare my mind in it, therefore entreated again and a<g ref="char:EOLhyphen"/>gain that I might be excuſed. Sir <hi>E. A.</hi> replied and urged me with much importunity, ſaying, Becauſe you are a Mini<g ref="char:EOLhyphen"/>ſter, therefore we deſire to know your judgment in it, then I told him, if I muſt ſpeak to it, I would only ſpeak as a Mi<g ref="char:EOLhyphen"/>niſter from Scripture and Reaſon, not medling with the Law. He ſaid, the Kings Attorney was preſent there to inform what was Law. I then ſaid, I did not underſtand that the Lands of <hi>N. E.</hi> were the Kings, but the Kings Subjects, who had for more than Sixty years had the poſſeſſion and uſe of them by a twofold right warranted by the Word of God. 1. By a right of juſt Occupation from the Grand Charter in <hi>Geneſis</hi> 1ſt and 9th Chapters, whereby God gave the Earth to the Sons of <hi>Adam,</hi> and <hi>Noah</hi> to be ſubdued and repleniſhed. 2. By a right of purchaſe from the Indians, who were Native Inhabi<g ref="char:EOLhyphen"/>tants, and had poſſeſſion of the Land before the Engliſh came hither, and that having lived here Sixty years, I did certain<g ref="char:EOLhyphen"/>ly know that from the beginning of theſe Plantations our Fa<g ref="char:EOLhyphen"/>thers entered upon the Land, partly as a Wilderneſs and <hi>Va<g ref="char:EOLhyphen"/>cuum Domicilium,</hi> and partly by the conſent of the Indians, and therefore care was taken to Treat with them, and to gain their conſent, giving them ſuch a valuable conſideration as was to their ſatisfaction, and this I told them I had the more certain knowledge of, becauſe having learned the Indian Lan<g ref="char:EOLhyphen"/>guage in my younger time, I was at ſeveral times made uſe of by the Government, and by divers particular Plantations as an Interpreter in Treating with the Indians about their Lands, which being done and agreed on, the ſeveral Townſhips and proportions of Lands of particular Men were ordered, and
+<pb n="14" facs="tcp:96623:11"/>
+ſetled by the Government of the Countrey, and therefore I did believe that the Lands of <hi>New-England</hi> were the Subjects Properties, and not the Kings Lands. Sir <hi>E. A.</hi> and the reſt replied, That the Lands were the Kings, and that he gave the Lands within ſuch limits to his Subjects by a Charter upon ſuch conditions as were not performed, and therefore all the Lands of <hi>New England</hi> have returned to the King, and that the Attorney General then preſent could tell what was Law, who ſpake divers things to the ſame purpoſe as Sir <hi>E. A.</hi> had done, ſlighting what I had ſaid, and vilifying the Indian Ti<g ref="char:EOLhyphen"/>tle, ſaying, They were Brutes, <hi>&amp;c.</hi> and if we had poſſeſſed and uſed the Land, they ſaid we were the Kings Subjects, and what Lands the Kings Subjects have, they are the Kings, and one of them uſed ſuch an Expreſſion, <hi>Where-ever an Eng<g ref="char:EOLhyphen"/>liſhman ſets his foot, all that he hath is the Kings,</hi> and more to the ſame purpoſe. I told them that ſo far as I underſtood, we received only the right and power of Government from the Kings Charter within ſuch limits and bounds, but the right of the Land and Soil we had received from God according to his Grand Charter to the Sons of <hi>Adam</hi> and <hi>Noah,</hi> and with the conſent of the Native Inhabitants as I had expreſſed be<g ref="char:EOLhyphen"/>fore. They ſtill inſiſted on the Kings right to the Land as before, whereupon I told them, I had heard it was a ſtanding Principle in Law and Reaſon: <hi>Nil dat qui non habet;</hi> and from thence I propounded this Argument; he that hath no right, can give no right to another, but the King had no right to the Lands of <hi>America</hi> before the Engliſh came hither, there<g ref="char:EOLhyphen"/>fore he could give no right to them. I told them, I knew not of any that could be pleaded but from a Popiſh Principle, that Chriſtians have a right to the Lands of Heathen, upon which the Pope as the Head of the Chriſtians had given the <hi>Weſt Indies</hi> to the King of <hi>Spain,</hi> but this was diſowned by all Proteſtants. Therefore I left it to them to affirm and prove the Kings Title. They replied and inſiſted much upon that, that the King had a right by his Subjects coming and taking poſſeſſion of this Land. And at laſt Sir <hi>E. A.</hi> ſaid with indig<g ref="char:EOLhyphen"/>nation, Either you are Subjects or you are Rebels, intima<g ref="char:EOLhyphen"/>ting, as I underſtood him according to the whole ſcope and tendency of his Speeches and Actions, that if we would not
+<pb n="15" facs="tcp:96623:11"/>
+yield all the Lands of <hi>N. E.</hi> to be the Kings, ſo as to take Patents for Lands, and to pay Rent for the ſame, then we ſhould not be accounted Subjects but Rebels, and treated ac<g ref="char:EOLhyphen"/>cordingly. There were many other various replies and an<g ref="char:EOLhyphen"/>ſwers on both ſides, but this is the ſum and ſubſtance of that diſcourſe —</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>John Higginſon</hi> aged ſeventy four years.</item>
+                           <item>
+                              <hi>Stephen Seawall</hi> aged thirty two years.</item>
+                        </list>
+                     </signed>
+
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>John Higginſon</hi> Miniſter in <hi>Salem</hi> perſonally appeared be<g ref="char:EOLhyphen"/>fore me, <date>
+                           <hi>Dec.</hi> 24. 1689.</date> and made Oath to the truth of the aboveſaid Evidence —</p>
+                     <closer>
+                        <signed>
+                           <hi>John Hathorne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+                  <postscript>
+                     <p>Captain <hi>Stephen Seawall</hi> of <hi>Salem</hi> appeared before me, <date>
+                           <hi>Dec.</hi> 24. 1689.</date> and made Oath to the truth of the aboveſaid Evi<g ref="char:EOLhyphen"/>dence.</p>
+                     <closer>
+                        <signed>
+                           <hi>John Hathorne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>Joſeph Lynde</hi> of <hi>Charles-towne</hi> in the County of <hi>Middleſex</hi> in <hi>N. E.</hi> being fifty three years of age, teſtifieth and ſaith, That in the year 1687. Sir <hi>Edmund Androſſe</hi> then Governour of <hi>New-England</hi> did inquire of him the ſaid <hi>Lynde</hi> what Title he had to his Lands, who ſhewed him many Deeds for Land that he the ſaid <hi>Lynde</hi> poſſeſſed, and particularly for Land that the ſaid <hi>Lynde</hi> was certainly informed would quickly be given a<g ref="char:EOLhyphen"/>way from him, if he did not uſe means to obtain a Patent for it. The Deed being conſidered by Sir <hi>E. A.</hi> he ſaid, it was worded well, and recorded according to <hi>N. E.</hi> cuſtom or words to the ſame purpoſe. He further enquired how the Title was derived he the ſaid <hi>Lynde</hi> told him, That he that he bought it of had it of his Father-in-law in Marriage with his Wife, and his ſaid Father from <hi>Charles-towne,</hi> and the ſaid Town from the General Court grant of the <hi>Maſſachuſetts</hi> Buy, and alſo by purchaſe from the Natives, and he ſaid, my Title were nothing worth if that were all. At another time after
+<pb n="16" facs="tcp:96623:12"/>
+ſhewing him an Indian Deed for Land, he ſaid, that their hand was no more worth than a ſcratch with a Bears paw, under-valuing all my Titles, though every way legal under our for<g ref="char:EOLhyphen"/>mer Charter Government. I then petitioned for a Patent for my whole Eſtate, but Mr. <hi>Weſt</hi> Deputy Secretary told me, I muſt have ſo many Patents as there were Counties that I had parcels of Land in, if not Towns, finding the thing ſo chargeable and difficult I delayed, upon which I had a Writ of Intruſion ſerved upon me in the beginning of the Summer 1688. the Copy whereof is in <hi>Charles-towne</hi>'s Mens complaint, and was at the ſame time with that of Mr. <hi>James Ruſſel</hi>'s, Mr. <hi>Seawall</hi>'s, and Mr. <hi>Shrimpton</hi>'s, it being for the ſame Land in part that I ſhewed my Title unto Sir <hi>E. A.</hi> as above, being my ſelf and thoſe I derived it from poſſeſſed, incloſed, and improved for about Fifty years, at which time I gave Mr. <hi>Graham</hi> Attorney General three pounds in Money, promiſing that if he would let the Action fall I would pay Court char<g ref="char:EOLhyphen"/>ges, and give him Ten pound when I had a Patent compleated for that ſmall parcel of Land, that ſaid Writ was ſerved up<g ref="char:EOLhyphen"/>on me for, which I did becauſe a Quaker that had the pro<g ref="char:EOLhyphen"/>miſe of it from the Governour, as I was informed in the Go<g ref="char:EOLhyphen"/>vernors preſence ſhould not have it from me, the ſaid <hi>Lynde,</hi> having about ſeven Acres more in the ſame common Field or Paſture, about a Mile from this forty nine Acres near unto the Land that the ſaid Governour gave unto Mr. <hi>Charles Lid<g ref="char:EOLhyphen"/>get,</hi> of divers of my Neighbours, which I concluded muſt go the ſame way that theirs went, and therefore though deſired to be patented by the ſaid <hi>Lynde</hi> with the forty nine Acres, he could not obtain a Grant for it. About the ſame time Mr. <hi>Graham</hi> Attorney General asked the ſaid <hi>Lynde</hi> what he would do about the reſt of his Land, telling him the ſaid <hi>Lyn<g ref="char:EOLhyphen"/>de</hi> that he would meet with the like trouble about all the reſt of his Lands that he poſſeſſed, and were it not for the Gover<g ref="char:EOLhyphen"/>nours going to <hi>New-York</hi> at this time, there would be a Writ of Intruſion againſt every Man in the Colony of any conſide<g ref="char:EOLhyphen"/>rable Eſtate, or as many as a Cart could hold, and for the poorer ſort of people ſaid Sir <hi>E. A.</hi> would take other mea<g ref="char:EOLhyphen"/>ſures, or words to the ſame purpoſe. The ſaid <hi>Lynde</hi> further ſaith, That after Judgments obtained for ſmall wrongs done
+<pb n="17" facs="tcp:96623:12"/>
+him, tryable by their own Laws before a Juſtice of the Peace, from whom they allowed no Appeals in ſmall Cauſes: he was forced out of his own County by Writs of falſe Judgment; and although at the firſt ſuperiour Court in <hi>Suf<g ref="char:EOLhyphen"/>folk,</hi> the thing was ſo far oppoſed by Judge <hi>Stoughton</hi> as illegal, as that it was put by, yet the next Term by Judge <hi>Dudley</hi> and Judge <hi>Palmer,</hi> the ſaid <hi>Lynde</hi> was forced to anſwer <hi>George Farewell</hi> Attorney aforeſaid, then ſaying in open Court in <hi>Charles-town,</hi> that all Cauſes muſt be brought to <hi>Boſton</hi> in <hi>Suf<g ref="char:EOLhyphen"/>folk,</hi> becauſe there was not honeſt men enough in <hi>Middleſex</hi> to make a Jury to ſerve their turns, or words to that purpoſe; nor did <hi>Suffolk,</hi> as appeared by their practice, for they made uſe of Non-Reſidents in divers caſes there. I mention not my damage, though it is great, but to the truth above-written I the ſaid <hi>Lynde</hi> do ſet to my hand—</p>
+                  <closer>
+                     <signed>Joſeph Lynde.</signed> 
+                     <dateline>
+                        <hi>Boſton</hi> 
+                        <date>the 14th of <hi>January,</hi> 1689/90.</date>
+                     </dateline> 
+                     <signed>
+                        <hi>Juratus coram me John Smith</hi> Aſſiſtant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And that the practices of theſe men have been according to their Principles, <hi>deſtructive to the Property of the Subject,</hi> is now to to be declared. It is a thing too well known to be denied, that ſome of Sir <hi>Edmunds Council</hi> begged (if they had not had ſecret encouragement no man believes that they would have done ſo) thoſe Lands which are called <hi>The Commons</hi> belonging to ſeveral Townſhips, whereby <hi>Plymouth, Lyn, Cambridge, Road Iſland, &amp;c.</hi> would have been ruinated, had theſe mens Projects taken effect. And not only the <hi>Commons</hi> belonging to Towns, but thoſe Lands which were the Property of ſeveral particular perſons in <hi>Charles-town,</hi> were granted from them. And <hi>Writs of Intruſion</hi> were iſſued out againſt Coll. <hi>Shrimpton,</hi> Mr. <hi>Samuel Seawall,</hi> and we know not how many more beſides, <hi>That their Lands might be ta<g ref="char:EOLhyphen"/>ken from them, under pretence of belonging to King</hi> James. An Iſland in the poſſeſſion of <hi>John Pittome</hi> anciently appropriated to the maintenance of a <hi>Free-School,</hi> was in this way ſeized. How ſuch men can clear themſelves from the guilt of <hi>Sacrilegious Oppreſſion,</hi> they had beſt conſider. Mr. <hi>Palmer</hi> ſwaggers and hectors at a ſtrange rate; for he hath theſe words, (<hi>p.</hi> 29.) <q>I ſhould be glad to ſee that man who would bare-faced inſtance in one particular
+<pb n="18" facs="tcp:96623:13"/>
+grant of any mans Right or Poſſeſſion paſſed by Sir <hi>E. A.</hi> during his Government.</q>—And what if we will ſhew him the men, that dare affirm as much or more than that? what will he do?</p>
+            <q>Me me adſum qui feci, in me convertite Ferrum.</q>
+            <p>We will produce thoſe that have ſaid (and ſworn) as much as all this comes to. For <hi>John Pittome</hi> hath upon Oath declared, That <hi>James Sherlock,</hi> Sir <hi>Edmunds Sheriff,</hi> came on <hi>Dear Iſland</hi> on the 28th of <hi>January</hi> 1688. and turned him and his Family afloat on the Water when it was a ſnowy day, although he was Tenant there to Coll. <hi>Shrimpton,</hi> and that the ſaid <hi>Sherlock</hi> put two men (whom he brought with him) into poſſeſſion of the ſaid Iſland (as he ſaid) <hi>on behalf of King</hi> James <hi>the Second.</hi> Let him alſo know, that Mr. <hi>Shepard</hi> and Mr. <hi>Burrill</hi> of <hi>Lyn,</hi> and <hi>James Ruſſell</hi> 
+               <abbr>Eſq</abbr> of <hi>Charles-towne</hi> in <hi>New-England</hi> have declared upon Oath as followeth.</p>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>Jeremiah Shepard</hi> Aged forty two years and <hi>John Burril</hi> aged fifty ſeven years, we whoſe names are ſubſcribed being made choice of by the Inhabitants of the Town of <hi>Lyn</hi> in the <hi>Maſſa<g ref="char:EOLhyphen"/>chuſetts</hi> Colony in <hi>New England</hi> to maintain their right to their properties and Lands invaded by Sir <hi>Edmund Androſſe</hi> Gover<g ref="char:EOLhyphen"/>nour, we do teſtify that (beſides Sir <hi>Edmund Androſſe</hi> his un<g ref="char:EOLhyphen"/>reaſonable demands of Money by way of Taxation, and that without an aſſembly, and Deputies ſent from our Town ac<g ref="char:EOLhyphen"/>cording to ancient cuſtom, for the raiſing of Money or levy<g ref="char:EOLhyphen"/>ing of Rates) our Properties, our honeſt and juſt and true Ti<g ref="char:EOLhyphen"/>tles to our Land were alſo invaded, and particularly a great and conſiderable tract of Land called by the name of the <hi>Na<g ref="char:EOLhyphen"/>hants,</hi> the only ſecure place for the Grazing of ſome thou<g ref="char:EOLhyphen"/>ſands of our Sheep, and without which our Inhabitants could neither provide for their own Families, nor be capacited to pay dues or duties for the maintenance of the publick, but (if diſpoſſeſſed of) the Town muſt needs be impoveriſhed, ruined, and rendred miſerable, yet this very tract of Land being Pe<g ref="char:EOLhyphen"/>titioned for by <hi>Edward Randolph,</hi> was threatned to be rent out of our hands, notwithſtanding our honeſt and juſt Pleas for our right to the ſaid Land, both by alienation of the ſaid Land to us from the Original Proprietors the Natives, to whom we paid our Moneys by way of purchaſe, and notwithſtanding near fifty years peaceable and quiet poſſeſſion and improve<g ref="char:EOLhyphen"/>ment,
+<pb n="19" facs="tcp:96623:13"/>
+and alſo incloſure of the ſaid Land by a Stone Wall, in which tract of Land alſo two of our Patentees were intereſt<g ref="char:EOLhyphen"/>ed in common with us, <hi>viz.</hi> Major <hi>Humphreys,</hi> and Mr. <hi>John<g ref="char:EOLhyphen"/>ſon,</hi> yet <hi>Edward Randolph</hi> Petitioning for the ſaid Land, Sir <hi>Edmund the Governour</hi> did ſo far comply with his unreaſonable motion, that we were put to great charges and expences for the Vindication of our honeſt rights thereto, and being often be<g ref="char:EOLhyphen"/>fore the Governour Sir <hi>Edmund</hi> and his Council for relief, yet could find no favour of our innocent cauſe by Sir <hi>Edmund, notwithſtanding our Pleas of Purchaſe, antient Poſſeſſion, Improve<g ref="char:EOLhyphen"/>ment, Incloſure, Grant of the General Court, and our neceſſitous condition,</hi> yet he told us all theſe Pleas were inſignificant, and we could have no true Title unleſs we could produce a Pa<g ref="char:EOLhyphen"/>tent from the King, neither had any perſon a right to one foot of Land in <hi>N. E.</hi> by vertue of Purchaſe, Poſſeſſion or Grant of Courts, but if we would have aſſurance of our Lands, we muſt go to the King for it, and get Patents of it. Finding no relief (and the Governour having prohibited Town Meetings, we earneſtly deſired Liberty for our Town to meet, to con<g ref="char:EOLhyphen"/>ſult what to do in ſo difficult a caſe and exigency, but could not prevail. Sir <hi>Edmund</hi> angrily telling us that there was no ſuch thing as a <hi>Town</hi> in the Country, neither ſhould we have Liberty ſo to meet, neither were our Antient Town Records (as he ſaid) which we produced for the vindication of our Ti<g ref="char:EOLhyphen"/>tles to ſaid Lands worth a Ruſh. Thus were we from time to time unreaſonably treated, our Properties, and civil Liberties and Priviledges invaded, our miſery and ruine threatned and haſtned, till ſuch time as our Country groaning under the un<g ref="char:EOLhyphen"/>reaſonable heavy Yoke of Sir <hi>Edmunds</hi> Government were con<g ref="char:EOLhyphen"/>ſtrained forcibly to recover our Liberties and Priviledges.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Jeremiah Shepard.</hi>
+                           </item>
+                           <item>
+                              <hi>John Burril.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Jeremiah Shepard</hi> Miniſter, and <hi>John Burril</hi> Lieutenant, both of <hi>Lin,</hi> perſonally appeared before us, and made Oath to the truth of this Evidence,</p>
+                     <closer>
+                        <dateline>
+                           <hi>Salem.</hi>
+                           <date>
+                              <hi> Feb.</hi> 3. 1689/90.</date>
+                        </dateline>
+                        <signed>
+                           <list>
+                              <item>John Hathorn. <hi>Aſſiſtant.</hi>
+                              </item>
+                              <item>Jonathan Corwin. <hi>Aſſiſtant.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <pb n="20" facs="tcp:96623:14"/>
+                  <p>
+                     <hi>James Ruſſel</hi> 
+                     <abbr>Eſq</abbr> on the behalf of the Proprietors of the ſtinted Paſture in <hi>Charlestown,</hi> and on his own perſonal ac<g ref="char:EOLhyphen"/>count, declares as followeth.</p>
+                  <p>That notwithſtanding the anſwer made to Sir <hi>E. A.</hi> his demand by ſome Gentlemen of <hi>Charlestown</hi> on the behalf of the Proprietors, which they judged ſatisfactory, or at leaſt they ſhould have a further hearing and opportunity to make out their Rights, there was laid out to Mr. <hi>Lidget</hi> adjoining to his Farm in <hi>Charlestown</hi> a conſiderable tract of Land (as it is ſaid one hundred and fifty Acres) which was of conſiderable value, and did belong to divers perſons, which when it was laid out by Mr. <hi>Wells</hi> there were divers bound marks ſhewed by the Proprietors, and ſome of them, and I had Petitioned for a Patent for my particular Propriety, yet the whole tract was laid out to the ſaid <hi>Lidget,</hi> who not only did cut down Wood thereon, without the right owners conſent, but Ar<g ref="char:EOLhyphen"/>reſted ſome for cutting their own Wood, and ſo they were de<g ref="char:EOLhyphen"/>prived of any means to uſe or enjoy their own Land. And notwithſtanding there was about twenty Acres of Paſture Land and Meadow taken from the ſaid <hi>Ruſſel,</hi> and given to Mr. <hi>Lidget,</hi> yet afterwards there was a <hi>Writ of Intru<g ref="char:EOLhyphen"/>ſion</hi> ſerved upon a ſmall Farm belonging unto the ſaid <hi>Ruſſel,</hi> unto which the aforeſaid Paſture Land did be<g ref="char:EOLhyphen"/>long, and had been long improved by <hi>Patrick Mark</hi> his Te<g ref="char:EOLhyphen"/>nant, (and others good part thereof) above fifty years, ſo that to ſtop Proſecution, the ſaid <hi>Ruſſell</hi> was forced to Petition for a Patent, he having a Tenant who was feared would comply in any thing that might have been to his prejudice, and ſo his Land would have been condemned under colour of Law, and given away as well as his Paſtorage was without Law. Further the ſaid <hi>Ruſſel</hi> complains, that he having an Iſland in <hi>Caſcobay,</hi> called <hi>Long-Iſland,</hi> which his honoured Father long ſince bought of Mr. <hi>Walker,</hi> and was confirmed to <hi>James Ruſſell</hi> by the General Court, and improved ſeveral years by Captain <hi>Davis,</hi> by mowing as Tenant to the ſaid <hi>Ruſſell,</hi> and the ſaid <hi>Ruſſell</hi> hearing it was like to be begged away, cauſed his Writ to be entred in the Publick Records in Mr. <hi>Weſt</hi>'s Office, which he paid for the Recording of; notwithſtanding Sir <hi>E. A.</hi> ordered Capt. <hi>Clements</hi> (as he ſaid) to ſurvey the ſame, and he ſhewed
+<pb n="21" facs="tcp:96623:14"/>
+me a Plat thereof, and ſaid, If I had a Patent for it, I muſt pay three pence <hi>per</hi> Acre, it being 650 Acres. He was further informed, That if the ſaid <hi>Ruſſell</hi> would not take a Patent for for it, Mr. <hi>Uſher</hi> ſhould have it—</p>
+                  <closer>
+                     <signed>Per James Ruſſell.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Jan.</hi> 30. 1689/90. <hi>James Ruſſell</hi> 
+                        <abbr>Eſq</abbr> perſonally appeared before me, and made Oath to the truth of what is before written —</p>
+                     <closer>
+                        <signed>
+                           <hi>William Johnſon</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>Had not an happy <hi>Revolution</hi> happened in <hi>England,</hi> and ſo in <hi>New-England,</hi> in all probability thoſe few ill men would have ſqueezed more out of the poorer ſort of people there, than half their Eſtates are worth, by <hi>forcing them to take Patents.</hi> Major <hi>Smith</hi> can tell them, that an Eſtate not worth 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> had more than 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> demanded for a Patent for it. And if their boldneſs and madneſs would carry them out to oppreſs the Rich after ſuch a manner as hath been ſhewed, what might the Poor look for? Nevertheleſs, their Tyranny was beyond any thing that hath been as yet expreſſed: For if men were willing to bring their Titles to their Poſſeſſions to a Legal Tryal, they were not only threatned, but fined and perſecuted, and uſed with barbarous Cruelty. When ſome Gentlemen in <hi>Boſton</hi> reſolved in a Legal way to defend their Title to an Iſland there, Sir <hi>Edmund</hi>'s <hi>At<g ref="char:EOLhyphen"/>torney</hi> threatned that it might <hi>coſt them all that they are worth, and ſomething beſides,</hi> as appears by the following Affidavit.</p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>The Depoſition of Captain <hi>Daniel Turel,</hi> and Lieutenant <hi>Edward Willis</hi> Sworn ſay, That upon <hi>a Writ of Intruſion</hi> being ſerved on <hi>Deer-Iſland</hi> belonging to the Town of <hi>Boston,</hi> and let unto Colonel <hi>Samuel Shrimpton</hi> by the Select Men of the ſaid Town, the Rent whereof being of long time appropriated towards the maintenance of a Free School in the Town, we the Deponents two of the ſelect Men of the ſaid Town, do teſtifie, That meeting with Mr. <hi>James Graham</hi> upon the Town-houſe, and telling him, that if Colonel <hi>Shrimpton</hi> did de<g ref="char:EOLhyphen"/>cline to perſonate the caſe of the ſaid Iſland, we the ſelect Men would. The ſaid <hi>Graham</hi> ſaid, Are <hi>you</hi> the Men that will <hi>ſtand Suit againſt the King?</hi> We the Deponents told him
+<pb n="22" facs="tcp:96623:15"/>
+we would anſwer in behalf of the Town. The ſaid <hi>Graham</hi> replied, There was no Town of <hi>Boston,</hi> nor was there any Town in the Countrey; we made anſwer we were a Town, and owned ſo to be by Sir <hi>Edmund Androſſe</hi> Governor, in the Warrant ſent us for the making a Rate; then the ſaid <hi>Gra<g ref="char:EOLhyphen"/>ham</hi> told us, We might ſtand the Tryal if we would, but <hi>bid us have a care what we did,</hi> ſaying, <hi>it might coſt us all we were worth, and ſomething elſe too,</hi> for ought he knew, and further theſe Deponents ſay not —</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Jan.</hi> 30. 1689.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Daniel Turel.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Willis.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>Captain <hi>Daniel Turel</hi> and Lieutenant <hi>Edward Willis</hi> appear<g ref="char:EOLhyphen"/>ed perſonally before me, and made Oath to the truth of what is above written.</p>
+                     <closer>
+                        <signed>
+                           <hi>William Johnſon</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>One of Sir <hi>Edmund</hi>'s Council and Creatures, Petitioned for an Iſland belonging to the Town of <hi>Plymouth,</hi> and becauſe the Agents of the ſaid Town obtained a voluntary Subſcription from the Perſons concerned to bear the charge of the Suit; they were treated as Criminals, and againſt all Law, Illegally com<g ref="char:EOLhyphen"/>pelled to anſwer in another County, and not that where the pretended Miſdemeanours were committed. And Mr. <hi>Wiſwall</hi> the Miniſter of <hi>Duxbury</hi> having at the deſire of ſome concerned tranſcribed a Writing which tended to clear the right they had to the Iſland in Controverſie, and alſo concerning the above<g ref="char:EOLhyphen"/>ſaid voluntary Subſcription, both Tranſcribed in the Winter 1687. A Meſſenger was ſent to bring him to <hi>Boston</hi> on the 21th <hi>June</hi> 1688. he was then lame in both Feet with the Gout, fitter for a Bed than a Journey, therefore wrote to the Gover<g ref="char:EOLhyphen"/>nour, praying that he might be excuſed until he ſhould be able to Travel, and engaged that then he would attend any Court, but the next Week the cruel Officer by an Expreſs Order from Sir <hi>E. A.</hi> forced him to Ride in that condition, being ſhod with Clouts inſtead of Shoes; and when he came before the Council he was there made to ſtand till the anguiſh of his Feet and Shoul<g ref="char:EOLhyphen"/>ders
+<pb n="23" facs="tcp:96623:15"/>
+had almoſt overcome him; after he was diſmiſſed from the Council, the Meſſenger came and told him, he muſt go to Goal, or enter into Bonds for his appearance at the next Supe<g ref="char:EOLhyphen"/>rior Court held in <hi>Boſton,</hi> and pay down 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> in Silver. His Sickneſs forced him to decline a Priſon, and to pay the Money. At the next Superior Court he appeared in the ſame Lame and Sick condition, and the extremity of the Weather caſt him into ſuch a violent Fit of Sickneſs, that he was in the judgment of others nigh unto death, and he himſelf thought that he ſhould ſoon be out of their Bonds, and at liberty to lay his Information againſt his Oppreſſors before the Righteous Judge of the whole World. After all this having been forced a third time out of his own County and Colony near Forty Miles, he was deliver<g ref="char:EOLhyphen"/>ed from the Hands and Humours of his Tyrannical Oppreſſors, who had expoſed him to great difficulties, charges, and to 228 Miles Travel in Journeying to and from <hi>Boston,</hi> directly oppo<g ref="char:EOLhyphen"/>ſite to the place where he ought to have been tryed, had he been guilty of any of the <hi>pretended Miſdemeanours,</hi> none of which his worſt Enemies ever had the Face to read in open Court, or openly to charge him with to this day. Now ſhall ſuch Men as theſe talk of <hi>Barbarous <g ref="char:V">Ʋ</g>ſage</hi> who have themſelves been ſo In<g ref="char:EOLhyphen"/>humane?</p>
+            <q>Quis tulerit Gracchos de ſeditione querentes!</q>
+            <p n="7">7. As for Sir <hi>E. A.</hi> his <hi>ſupplying the Indians with Ammunition in the time of actual War with them,</hi> the following Teſtimonies con<g ref="char:EOLhyphen"/>firmed the people of <hi>N. E.</hi> in the belief of it.</p>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>Lenox Beverley</hi> aged about twenty five years being Sworn, ſaith, That he being Souldier at <hi>Pemyquid</hi> the Winter time 1688. where was Captain General Sir <hi>E. A.</hi> Knight, there came to the Fort where Sir <hi>E. A.</hi> then was, two Squaws, the one <hi>Madocowandos</hi> Siſter, and the other <hi>Moxis</hi> Wife (as was ſaid,) and two other Indian Women that went along with them; they were in the Fort with Sir <hi>Edmund</hi> two days, and when they came forth they ſeemed to be half drunk, this De<g ref="char:EOLhyphen"/>ponent and <hi>Peter Ripley</hi> was commanded to Guard theſe Squaws from <hi>Pemyquid</hi> to <hi>New Harbour,</hi> being in diſtance about two Miles, and as we paſſed on the way <hi>Madocowandos</hi> Siſter laid
+<pb n="24" facs="tcp:96623:16"/>
+down her Burden in the Snow and commanded the Deponent to take it up, whereupon the Deponent looked into the Baſ<g ref="char:EOLhyphen"/>ket, and ſaw a ſmall Bag which he opened, and found it to be Gunpowder, which he judged five pounds weight, and a Bag of Bullets of a greater weight, and the weight of the Basket I took up, was as much as the Deponent could well carry along, and the other three Squaws had each one of them their Baskets, which appeared rather to be of greater than leſſer burden, than that the Deponent carried, which were all of them loaden, and brought out of the Fort, and <hi>Madocowandos</hi> Siſter ſaid ſhe had that Powder of Sir <hi>Edmund,</hi> and added, that ſhe was to come again to him within four days —</p>
+                  <closer>
+                     <signed>
+                        <hi>Lenox</hi> X <hi>Beverley</hi> his mark.</signed> 
+                     <dateline>
+                        <hi>Boſton.</hi>
+                        <date>
+                           <hi>Aug.</hi> 17. 1689.</date>
+                     </dateline> 
+                     <signed>Sworn in Council. Atteſts <hi>Iſ. Ad<g ref="char:EOLhyphen"/>dington</hi> Secretary.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>Gabriel Wood</hi> of <hi>Beverly</hi> aged about twenty four years, teſti<g ref="char:EOLhyphen"/>fies, That being one of the Souldiers that was out the laſt Win<g ref="char:EOLhyphen"/>ter paſt, <hi>Anno</hi> 1688. in the Eaſtward parts, and under the command of Sir <hi>Edmund Androſſe,</hi> and being then at <hi>Pemyquid</hi> with him, was commanded by him the ſaid Sir <hi>E.</hi> together with ſo many more of the Souldiers as made up two Files to Guard and ſafely Conduct three Indian Women from <hi>Pemy<g ref="char:EOLhyphen"/>quid</hi> aforeſaid to <hi>New Harbour,</hi> which ſaid Indian Women were all laden, and to my certain knowledge one of the ſaid Wo<g ref="char:EOLhyphen"/>men had with her in her ſaid Journey a conſiderable quantity of Bullets, which ſhe brought with her from <hi>Pemyquid</hi> afore<g ref="char:EOLhyphen"/>ſaid, and to my beſt apprehenſion, ſhe had alſo a conſiderable quantity of Powder in a Bag in her Basket, but I did not ſee that opened, as I did ſee the Bullets, neither dared I be very inquiſitive, the reſt of the Souldiers in company with me ſee<g ref="char:EOLhyphen"/>ing the Indians ſo ſupplied with Ammunition (as we all ap<g ref="char:EOLhyphen"/>prehended they were by our Governour and Captain General Sir <hi>E. A.</hi> aforeſaid) <hi>we did very much queſtion amongſt our ſelves, whether the ſaid Sir</hi> E. <hi>did not intend the deſtruction of our Army, and brought us thither to be a Sacrifice to our Heathen Adverſa<g ref="char:EOLhyphen"/>ries</hi> —</p>
+                  <closer>
+                     <signed>The mark of <hi>Gabriel</hi> [A] <hi>Wood.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <pb n="25" facs="tcp:96623:16"/>
+                     <p>
+                        <hi>Gabriel Wood</hi> of <hi>Beverley</hi> in the County of <hi>Eſſex,</hi> perſonally appeared before me at <hi>Salem</hi> in <hi>N. E. Jan.</hi> 29. 1689/90. and made Oath to the Truth of the above ſaid Evidence.</p>
+                     <closer>
+                        <signed>
+                           <hi>John Hatherne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p n="8">8. <hi>That the Indians declared they were encouraged by Sir</hi> E. A. <hi>to make War upon the Engliſh,</hi> is moſt certainly true, although the Lying Author of that <hi>Scandalous Pamphlet,</hi> called <hi>New-Englands Faction diſcovered,</hi> has the impudence to ſay, that it is <hi>certainly falſe.</hi> Two Indians, <hi>Waterman</hi> and <hi>David,</hi> teſtifie that the <hi>Ma<g ref="char:EOLhyphen"/>quas</hi> Indians ſent a Meſſenger to <hi>Pennicock,</hi> to inform that Sir <hi>E. A.</hi> had been tampering to engage them to fight againſt the Engliſh. Another Indian called <hi>Solomon Thomas,</hi> affirmed, that Sir <hi>Edmund</hi> gave him a Book, and that he ſaid that Book was better than the Bible, that it had in it the Picture of the Virgin <hi>Mary,</hi> and that when they ſhould fight at the Eaſtward, Sir <hi>Ed<g ref="char:EOLhyphen"/>mund</hi> would ſit in his <hi>Wigwam,</hi> and ſay, <hi>O brave Indians!</hi> Ano<g ref="char:EOLhyphen"/>ther Indian named <hi>Joſeph</hi> (who was in hoſtility againſt the Eng<g ref="char:EOLhyphen"/>liſh) bragged that the Governour had more love for them than for the Engliſh. Another Indian named <hi>John James,</hi> did of his own voluntary mind declare to ſeveral in <hi>Sudbury,</hi> that Sir <hi>E. A.</hi> had hired the Indians to kill the Engliſh: The men to whom he thus expreſſed himſelf, reproved him, and told him that they be<g ref="char:EOLhyphen"/>lieved he belied Sir <hi>E. A.</hi> and therefore they ſecured him, and complained to a Juſtice of Peace, by which means he was brought to <hi>Boſton,</hi> but Sir <hi>E.</hi> inſtead of puniſhing, was kind to the Indian, when as both the Juſtice and the <hi>Sudbury</hi> man had (to uſe Mr. <hi>Palmers</hi> phraſe) <hi>horrible uſage,</hi> by means whereof an Alarm and Terrour ran through the Countrey, fearing ſome miſ<g ref="char:EOLhyphen"/>chievous deſign againſt them. That this Relation is not a feigned ſtory, the enſuing Teſtimonies make to appear.</p>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>The Teſtimony of <hi>Waterman,</hi> and <hi>David,</hi> Indians, ſaith, That the <hi>Maquas</hi> ſent a Meſſenger to <hi>Pennicock</hi> to inform, that Governour, <hi>Edmund Androſſe</hi> hired the <hi>Maquas</hi> to fight the Engliſh, and paid down to them one Buſhel of white Wompon, and one Buſhel of black Wompon, and three Cart<g ref="char:EOLhyphen"/>loads of Merchants goods, trucking Cloath and Cotton Cloath, and Shirt Cloath, and other goods. The <hi>Maquas</hi> ſaid, That the Engliſh were their good Friends, and ſaid, they would not
+<pb n="26" facs="tcp:96623:17"/>
+fight them, for the Engliſh never wronged them, but the <hi>Ma<g ref="char:EOLhyphen"/>quas</hi> took the pay on account of the <hi>Maquas</hi> helping the Eng<g ref="char:EOLhyphen"/>liſh to fight their Enemies the laſt War.</p>
+                  <closer>
+                     <signed>Witneſs our hands
+<list>
+                           <item>
+                              <hi>Davids</hi> X mark.</item>
+                           <item>
+                              <hi>Watermans Q</hi> mark.</item>
+                        </list>
+                     </signed>
+                     <signed>Teſt.
+<list>
+                           <item>
+                              <hi>Cornelius Waldo ſenior,</hi>
+                           </item>
+                           <item>
+                              <hi>Moſes Parker,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Read.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>The two Indians above-mentioned <hi>Waterman</hi> and <hi>David,</hi> ap<g ref="char:EOLhyphen"/>peared the 4th day, of <hi>May</hi> 1689. and to the Council then ſitting owned the above-written to be truth;</p>
+                     <closer>
+                        <signed>
+                           <hi>Iſa. Addington</hi> Secretary.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>Rocheſter</hi> in the King's Province, <hi>Sept.</hi> 16. 1688. <q>
+                        <hi>Samuel Eldred junior</hi> of <hi>Rocheſter</hi> came before <hi>Arthur Fenner</hi> and <hi>John Fones</hi> 
+                        <abbr>Eſq</abbr> two of His Majeſties Juſtices of the Peace, and did declare upon Oath, that on the Evening before an Indian whom he had ſeized, by name <hi>Joſeph,</hi> did in an inſulting and vaunt<g ref="char:EOLhyphen"/>ing manner ſay, There was 500 at <hi>Martins Vineyard,</hi> 700 at <hi>Nantucket,</hi> and 400 at <hi>Chappaqueſſot,</hi> all very well armed, and in a better manner than him the ſaid <hi>Samuel Eldred,</hi> and that our Governour did not dare to diſarm them, for that the Go<g ref="char:EOLhyphen"/>vernour had more love for them, the ſaid Indians, than for His Majeſties Subjects the Engliſh. The ſaid Indian being brought before us, and examined, did confeſs the greateſt part of what was ſworn againſt him, and owned that he was one of them that were in hoſtility againſt the Engliſh in the late Wars, up<g ref="char:EOLhyphen"/>on which the ſaid Indian was committed to Gaol.</q>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Per Arthur Fenner,</hi>
+                           </item>
+                           <item>
+                              <hi>John Fones.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>The Teſtimony of <hi>Joſeph Graves</hi> aged 46 years or there<g ref="char:EOLhyphen"/>about, and <hi>Mary Graves</hi> about 30 years, of <hi>John Rutter</hi> aged about 40 years, witneſs that on the 2d day of <hi>January</hi> 1688. <hi>So<g ref="char:EOLhyphen"/>lomon Thomas</hi> Indian, being at the houſe of <hi>Joſeph Graves,</hi> in the Town of <hi>Sudbury,</hi> ſaid, that when the Fight at the Eaſtward ſhould be, if the Indians had the better of it, as the Engliſh did
+<pb n="27" facs="tcp:96623:17"/>
+retreat, the Friend Indians were to ſhoot them down, but if the Engliſh get the day, we ſay nothing, and that in the Spring <hi>French and Iriſh would come to Boſton,</hi> as many, and all won Indians, for that was the firſt place that was to be deſtroyed, and after that the Countrey Towns would be all won nothing. And fur<g ref="char:EOLhyphen"/>ther, the ſaid <hi>Solomon</hi> ſaid, that the Governour had given him a Book, which ſaid Governour ſaid, was better than the Bible, and all that would not turn to the Governours Religion, and own that Book, ſhould be deſtroyed. In which Book he the ſaid <hi>Thomas</hi> ſaid was the Picture of our Saviour, and of the Virgin <hi>Mary,</hi> and of the Twelve Apoſtles; and the Governour ſaid, when we pray, we pray to the Virgin <hi>Mary;</hi> and when the Fight ſhould be at the Eaſtward, the Governour would ſit in his Wigwam, and ſay, <hi>O brave Indians!</hi> Whereupon <hi>John Rutter</hi> told the Indian, that he deſerv'd to be hanged for ſpeaking ſuch things, but the Indian replied, it was all true. Upon the hear<g ref="char:EOLhyphen"/>ing this diſcourſe, we reſolved to come to <hi>Boston,</hi> and acquaint Authority with it, but by reaſon of the ſickneſs of <hi>Joſ. Graves,</hi> we could not preſently, but as ſoon as conveniently we could, we accordingly appeared at <hi>Boſton</hi> with our Information, which the ſaid <hi>Joſeph Graves</hi> carried to Mr. <hi>Bullivant</hi> a Juſtice of the Peace.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Joſeph Graves,</hi>
+                           </item>
+                           <item>
+                              <hi>John</hi> X <hi>Rutler ſignum.</hi>
+                           </item>
+                           <item>
+                              <hi>Mary</hi> Y <hi>Graves</hi> mark.</item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <opener>
+                        <dateline>
+                           <hi>Boſton,</hi>
+                           <date>
+                              <hi> Jan.</hi> 28. 1689.</date>
+                        </dateline>
+                     </opener>
+                     <p> 
+                        <hi>Joſeph</hi> and <hi>Mary Graves</hi> came and made Oath to the truth above-written;</p>
+                     <closer>
+                        <signed>Before me <hi>William Johnſon</hi> Aſſiſtant,</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>That when the Engliſh ſecured ſome of the Indians mention<g ref="char:EOLhyphen"/>ed, and brought them before Sir <hi>E. A.</hi> Juſtices, they were baſely &amp; barbarouſly uſed for their pains, the following <hi>Affidavits</hi> ſhew.</p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Sudbury</hi> in <hi>New-England,</hi> 
+                        <date>
+                           <hi>March</hi> 22. 1688/9.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Thomas Browne</hi> aged about Forty four years, and <hi>John Goodenow</hi> aged about Fifty four years, <hi>John Growt ſenior,</hi> aged near Seventy years, <hi>Jacob Moore</hi> aged about 44 years, <hi>Jonathan Stanhope</hi> aged about 57 years, and <hi>John Parmiter</hi> aged about 50 years, all Inhabitants of the Town of <hi>Sudbury</hi> aforeſaid, do witneſs that we heard <hi>John James,</hi> Indian, of his own voluntary mind, ſay, That the
+<pb n="28" facs="tcp:96623:18"/>
+Governour was a Rogue, and had hired the Indians to kill the Engliſh, and in particular, had hired <hi>Wohawhy</hi> to kill Engliſh<g ref="char:EOLhyphen"/>men, and that the Governour had given the ſaid <hi>Wohawhy</hi> a gold Ring, which was his Commiſſion, which gold Ring the ſaid <hi>Wohawhy</hi> ſold to <hi>Jonathan Preſcott</hi> for two ſhillings in money: Whereupon we replied, Sirrah, you deſerve to be hanged for what you ſay. <hi>John James</hi> the Indian replied, What you Papiſt, all one Governour. I ſpeak it before Governours very face. This diſcourſe of <hi>John James</hi> Indian, was at the place, and on the day above-written.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Thomas Browne,</hi>
+                           </item>
+                           <item>
+                              <hi>John Goodenow,</hi>
+                           </item>
+                           <item>
+                              <hi>Jacob Moore,</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Stanhope,</hi>
+                           </item>
+                           <item>
+                              <hi>John Parmiter.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>Thomas Browne</hi> and <hi>John Goodenow,</hi> two of the Subſcribers above, having received this Declaration from <hi>John James</hi> the Indian, we thought it our duty forthwith to inform Authority, and did with the Indian preſently go to <hi>Water-town</hi> to Juſtice <hi>Bond,</hi> where the ſaid <hi>John James</hi> did voluntarily give his Teſti<g ref="char:EOLhyphen"/>mony before the ſaid Juſtice <hi>Bond,</hi> which after he had taken, the ſaid Juſtice <hi>Bond</hi> ordered us the ſaid <hi>Thomas Browne</hi> and <hi>John Goodenow</hi> to make our appearance before the Governour Sir <hi>E. A.</hi> or one of the Council with the Indian, which accord<g ref="char:EOLhyphen"/>ingly we did, when we came to the Governours houſe; after long waiting in a very wet and cold ſeaſon, we were admitted unto the Governours preſence, where we were detained until eleven or twelve a Clock at night, and after a very unkind Treat, we humbly prayed his Excellency, he would pleaſe to diſcharge us of the Indian, but he told us no, and joaked us, ſaying, we were a couple of brave men, and had the command, one of a Troop of Horſe, and the other a Company of Foot, and could we not know what to do with a poor Indian? Fur<g ref="char:EOLhyphen"/>ther, he asked us what money we gave the Indian to tell us ſuch news, and commanded us ſtill to take care of the Indian till his pleaſure was to call for us again, and this as we would an<g ref="char:EOLhyphen"/>ſwer it. Thus being ſeverely chidden out of his preſence, we were forced with the Indian to ſeek our quarters where we
+<pb n="29" facs="tcp:96623:18"/>
+could find them. The next morning we were preparing to go home again to <hi>Sudbury</hi> (being 20 miles or more) being <hi>Saturday,</hi> we were again ſent for by the Governour by a Meſſenger, to wait on the Governour with the Indian, which we did, and waited at the Exchange or Council-houſe in <hi>Boſton,</hi> from nine a Clock in the morning till three of the Clock in the afternoon, where in the face of the Countrey we were made to wait up<g ref="char:EOLhyphen"/>on the Indian with many ſquibs and ſcoffs that we met withal; at laſt we were commanded up before the Governour and his Council, where we were examined apart over and over, and about the Sun-ſetting were granted leave to go home, it being the Evening before the Sabbath.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Thomas Browne,</hi>
+                           </item>
+                           <item>
+                              <hi>John Goodenow.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>On Munday Morning following being the 25th of <hi>March.</hi> 1689. <hi>Jacob Moore, Joſeph Graves, Joſeph Curtis, Joſeph Moore, Obadiah Ward,</hi> were by <hi>Thomas Larkin</hi> as a Meſſenger fetched down to <hi>Boſton,</hi> where after Examination, <hi>Jacob Moore</hi> was committed to cloſe Priſon. <hi>Joſeph Moore, Joſeph Graves, Jo<g ref="char:EOLhyphen"/>ſeph Curtis,</hi> and <hi>Obadiah Ward</hi> were ſent home again, paying the ſaid <hi>Larkin</hi> twelve ſhillings <hi>per</hi> Man. On the next Mon<g ref="char:EOLhyphen"/>day Morning after, being the firſt day of <hi>April</hi> 1689. <hi>Samuel Gookin</hi> the Sheriff of <hi>Middleſex</hi> and his Deputy came up to <hi>Sud<g ref="char:EOLhyphen"/>bury,</hi> and commanded <hi>Thomas Browne, John Goodenow</hi> Senior, <hi>John Growt</hi> Senior, <hi>Jonathan Stanhope, John Parmiter,</hi> forthwith to appear at <hi>Boſton,</hi> at Collonel <hi>Page</hi>'s Houſe, but it being a Wet and Cold Day, we were detained at Judge <hi>Dudleys</hi> houſe at <hi>Roxbury,</hi> where after long waiting, had the kindneſs ſhewn us, to have an examination every man apart before Judge <hi>Dudley,</hi> Judge <hi>Stoughton,</hi> Mr. <hi>Graham</hi> and others, and were bound over to anſwer at the next Superiour Court to be held at <hi>Boſton,</hi> what ſhould there be objected againſt us upon his Majeſties account. <hi>Thomas Browne, John Goodenow</hi> Senior, <hi>John Growt</hi> Senior, were each of them bound over in three hundred pound Bonds, and each man two ſureties in three hundred pound Bond a piece. <hi>John Parmiter</hi> and <hi>Jonathan Stanhope,</hi> were bound in a hundred pound a piece, beſides the loſs of our time and hindrance of our Buſineſs, the reproach and ignominy of
+<pb n="30" facs="tcp:96623:19"/>
+Bond and Impriſonment, we ſhall only take the boldneſs to give a true account of what money we were forced to expend out of our own Purſes as followeth, to the Sheriff and other ne<g ref="char:EOLhyphen"/>ceſſary Charges.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell role="label">
+                              <abbr>l.</abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>s.</abbr>
+                           </cell>
+                           <cell role="label">
+                              <abbr>d.</abbr>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Thomas Browne.</hi>
+                           </cell>
+                           <cell>2</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>J. <hi>Goodenow</hi> Senior.</cell>
+                           <cell>2</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>J. <hi>Growt</hi> Senior.</cell>
+                           <cell>0</cell>
+                           <cell>10</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>J. <hi>Rutter</hi> Junior.</cell>
+                           <cell>3</cell>
+                           <cell>05</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Joſeph Curtis.</hi>
+                           </cell>
+                           <cell>0</cell>
+                           <cell>17</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Jacob Moore.</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>00</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Jonathan Stanhope.</hi>
+                           </cell>
+                           <cell>0</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>John Parmiter.</hi>
+                           </cell>
+                           <cell>0</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Joſeph Graves.</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Thomas Browne.</hi>
+                           </item>
+                           <item>
+                              <hi>John Goodenow.</hi>
+                           </item>
+                           <item>
+                              <hi>Jacob Moore.</hi>
+                           </item>
+                           <item>
+                              <hi>Jonathan Stanhope.</hi>
+                           </item>
+                           <item>
+                              <hi>Joſeph Curtis.</hi>
+                           </item>
+                           <item>
+                              <hi>John Parmiter.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <dateline>
+                        <hi>Boſton</hi>
+                        <date>the 21ſt. of <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 1689.</date>
+                     </dateline> 
+                     <signed>
+                        <hi>Jurat. cor. Iſaac Addington</hi> Aſſiſtant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Altho no man does accuſe Sir <hi>Edmund</hi> meerly upon Indian Teſtimony, yet let it be duly weighed (the premiſes conſider<g ref="char:EOLhyphen"/>ed) whether it might not create ſuſpicion and an aſtoniſhment in <hi>the People of New-England,</hi> in that he did not puniſh the <hi>In<g ref="char:EOLhyphen"/>dians</hi> who thus charged him, but the Engliſh who complained of them for it. And it is certain, that ſome very good and wiſe men in <hi>New England</hi> do verily believe that he was deeply guilty in this matter, eſpecially conſidering what might paſs between him and <hi>Hope Hood</hi> an Indian, concerning which Mr. <hi>Thomas Dantforth</hi> the preſent Deputy Governour at <hi>Boſton</hi> in <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> in a Letter bearing date <hi>April</hi> 1. 1690. writeth thus —</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>The Commander in chief of thoſe that made this ſpoil <hi>(i. e.)</hi> the ſpoil which was made in the Province of <hi>Maine</hi> on the 18th of <hi>March</hi> laſt, is <hi>Hope Hood</hi> an Indian, one that was with ſun<g ref="char:EOLhyphen"/>dry other Indians in the ſummer 1688 ſeized by ſome of Sir <hi>Edmunds</hi> Juſtices and Commanders in the Province of <hi>Maine,</hi> and ſent Priſoners to <hi>Boſton,</hi> Sir <hi>E.</hi> being then at the Weſt<g ref="char:EOLhyphen"/>ward, where he continued abſent many weeks; upon his return finding the Indians in Priſon, fell into a great rage againſt thoſe Gentlemen that had acted therein, declared his reſolution to
+<pb n="31" facs="tcp:96623:19"/>
+ſet them at liberty and calling his Council together, was by ſome oppoſed therein, and among others, one Gentleman of the Council accuſed this <hi>Hope Hood</hi> to be a bloody Rogue, and added that he the ſaid <hi>Hope Hood,</hi> had threatned his Life, and therefore prayed Sir <hi>E.</hi> that he might not be enlarged, but Sir <hi>E.</hi> made a flout and ſcorn of all that could be ſaid. At the ſame time ſome of the Council deſired Sir <hi>E.</hi> that this <hi>Hope Hood</hi> might be ſent for before the Council, to which he replied, that he never had had a quarter of an hours conference with any of them, and that he ſcorned to diſcourſe with any Heathen of them all, yet all this notwithſtanding, at the ſame time whilſt the Council was thus met, did Sir <hi>Edmund</hi> private<g ref="char:EOLhyphen"/>ly withdraw himſelf, and repair to the Priſon where this <hi>Hope Hood</hi> was Priſoner, and did there continue with him two or three hours in private, the truth of what is above related is at<g ref="char:EOLhyphen"/>teſted by ſundry Gentlemen that were of Sir <hi>Edmunds</hi> Coun<g ref="char:EOLhyphen"/>cil, and were then Ear Witneſſes and likewiſe by others that ſaw Sir <hi>E.</hi> at the Priſon; <hi>and it is now verily believed that at that very time he conſulted the miſchief that is now acted by the ſaid</hi> Hope Hood and Company. Thus Mr. <hi>Dantforth.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p n="9">9. That Sir <hi>Edmund Androſſe diſcountenanced making defence againſt the Indians,</hi> is complained of by five Gentlemen who were of his Council, and much concerned at his ſtrange act<g ref="char:EOLhyphen"/>ings in that matter as in the account annext to this <hi>Apology</hi> is to be ſeen. It is alſo confirmed by the <hi>Affidavits</hi> of two honeſt men—</p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>Henry Kerley</hi> aged about fifty ſeven years and <hi>Thomas How</hi> aged thirty five years or thereabouts, both Inhabitants of the Town of <hi>Malborough,</hi> do both teſtifie that in the Fall of the year, 1688. When Sir <hi>Edmund Androſse</hi> came from <hi>New-York</hi> to <hi>Boſton,</hi> ſometime after the Indians had killed ſome Engliſh men at <hi>North-field</hi> in <hi>New England,</hi> coming through our Town of <hi>Malborough,</hi> the ſaid Sir <hi>E. A.</hi> examined this Deponent <hi>Henry Kerley</hi> by what Order we did Fortify and Garriſon our Houſes, I anſwered it was by order of Captain <hi>Nicholſon,</hi> the ſaid Sir <hi>E.</hi> then ſaid, he had no power ſo to do. He the ſaid Sir <hi>E.</hi> examined what Arms we made uſe of, and carried with us on the Watch, and what charge was given us, anſwer was made by the Deponent, they carried Fire Arms, and the charge
+<pb n="32" facs="tcp:96623:20"/>
+was to keep a true Watch, to examine all we met with, and ſecure ſuſpicious perſons that we met with, the ſaid Sir <hi>E.</hi> ſaid what if they will not be ſecured, and what if you ſhould kill them, anſwer was made by the Deponent, that if we ſhould kill them, we were in our way, then Mr. <hi>Randolph</hi> being there in the company ſaid, you are <hi>in the way to be hanged.</hi> Sir <hi>E. A.</hi> ſaid further that thoſe perſons that had left their Houſes to dwell in Garriſons, if they would not return, others ſhould be put in that would live there.</p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>
+                              <hi>Henry Kerley.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas How.</hi>
+                           </item>
+                        </list>
+                     </signed> 
+                     <dateline>
+                        <hi>Boſton</hi>
+                        <date>the 27th of <hi>Decemb.</hi> 1689. <hi>Jur. Henry Kerley,</hi> and the 2d of <hi>Janu.</hi> 1689.</date>
+                     </dateline> 
+                     <signed>
+                        <hi>Jur. Thomas How. Cor. Iſ. Addington.</hi> Aſſiſtant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>That Sir <hi>Edmunds High Sheriff was a Stranger in the Country, and one that had no Eſtate there</hi> needs no proof, and that <hi>Strangers who had no Freehold, were Impannelled for Jurors</hi> is notoriouſly known. So it was in the caſe of the <hi>Ipſwich-men</hi> as hath been noted, and when that Reverend perſon Mr. <hi>Charles Morton,</hi> was cauſeleſly and maliciouſly proſecuted, he was not only com<g ref="char:EOLhyphen"/>pelled to anſwer (contrary to Law) in another County, and not in that wherein the good Sermon they found fault with, was Preached, but that if poſſible, they might give him a blow, there was ſummoned to ſerve as a Jury man, one <hi>John Gibſon</hi> no Houſeholder nor of any Eſtate or Credit, and one <hi>John Levings<g ref="char:EOLhyphen"/>worth</hi> a Bricklayer, who lived in another Colony two hun<g ref="char:EOLhyphen"/>dred Miles diſtance. When thoſe in Government will uſe ſuch <hi>baſe Artifices</hi> as theſe to accompliſh their pernicious deſigns, how ſhould any mans Eſtate or Life be ſecure under them?</p>
+            <p n="11">11. That the perſons objected againſt, were ſome of them <hi>guilty of great extortion</hi> is manifeſt from what hath been related, and may yet be further proved, for (as by ſome inſtances we have already ſeen, and ſhall now hear more) they <hi>compelled men to take Patents for their own Lands,</hi> which they, and their Fathers before them, had quietly poſſeſſed till theſe covetous Creatures became a <hi>Nuſance</hi> to the Country, and it may be none more Criminal, as to this particular, than Mr. <hi>Palmer</hi> and Mr. <hi>Weſt.</hi> — A Friend of their own <hi>viz.</hi> Mr. <hi>Randolph</hi> does in ſeveral of
+<pb n="33" facs="tcp:96623:20"/>
+his Letters bitterly complain of them upon this account. In a Letter of his of <hi>Auguſt</hi> the 25th 1687. he writeth thus.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I believe all the Inhabitants in <hi>Boſton</hi> will be forced to take Grants and Confirmations of their Lands, as now intended, the Inhabitants of the Province of <hi>Maine</hi> which will bring in <hi>vaſt profits to Mr. Weſt,</hi> he taking what Fees he pleaſes to de<g ref="char:EOLhyphen"/>mand. I ſhall always have a due Honour and Reſpect for his Excellency, but I muſt buy his Favour at three or four hun<g ref="char:EOLhyphen"/>dred pound a year loſs. And in another to the ſame, <hi>June</hi> 21. 1688. he hath theſe words. I went to one <hi>Shurte,</hi> Town-Clerk of <hi>Pemyquid</hi> to know what Leaſes were made lately, and by whom, and for what quit Rent, he told me that above a year ago Captain <hi>Palmer,</hi> and Mr. <hi>Weſt</hi> produced to them a Commiſſion from Collonel <hi>Dungar,</hi> to diſpoſe of all their Lands to whoever would take leaſes at five ſhillings the hun<g ref="char:EOLhyphen"/>dred Acres quit Rent. They let there and at a place called <hi>Dartmouth</hi> twelve or ſixteen Miles diſtant from <hi>Pemyquid</hi> about one hundred and forty Leaſes, ſome had eight hundred or ten hundred Acres, few leſs than a hundred, ſome but three or four Acres, and all paid 2 <abbr>l.</abbr> 10 <abbr>s.</abbr> for paſſing their Grants of 100 Acres of Wood Land, with twenty Acres of Marſh where ever it could be found, but this bred a great miſchief among the People; few or none have their Land meaſured or marked, they were in haſte, and got what they could, <hi>they had their Emiſ<g ref="char:EOLhyphen"/>ſaries amongſt the poor people, and frighted them to take Grants,</hi> ſome came and complained to the Governour, and prayed him to <hi>confirm their Rights, which he refuſed to do,</hi> the Commiſſion and whole proceeding being Illegal, having notice they were to be under his Government, they reſented it, but it ſerved their turn. <hi>The poor have been very much oppreſſed here,</hi> the Fort run all to ruine, and wants a great deal to repair it, Captain <hi>Palmer</hi> and Mr. <hi>Weſt</hi> laid out for themſelves ſuch large lots. and Mr. <hi>Graham</hi> though not there, had a Childs Portion, I think ſome have eight thouſand or ten thouſand Acres. <hi>I hear not of one penny rent coming in to the King, from them who have their Grants confirmed at York,</hi> and the five ſhillings an hundred Acres was only <hi>a Sham</hi> upon the People: at our return we ſaw very good Land at <hi>Winter Harbour,</hi> enough to make large ſettlements for many people. The Governour will have it firſt meaſured, and
+<pb n="34" facs="tcp:96623:21"/>
+then ſurveyed, and then will diſpoſe of it for ſettlements, Mr. <hi>Graham</hi> and his Family are ſetled at <hi>Boſton,</hi> he is made <hi>Attorney General, and now the Governor is ſafe in his</hi> New-York <hi>Confidents,</hi> all others being Strangers to his <hi>Council.</hi> 'Twas not well done of <hi>Palmer</hi> and <hi>Weſt</hi> to tear all in pieces that was ſetled and granted at <hi>Pemyquid</hi> by Sir <hi>E.</hi> that was the Scene where they <hi>pla<g ref="char:EOLhyphen"/>ced and diſplaced at pleaſure and were as Arbitrary as the great Turk, Some of the firſt ſetlers of that Eaſtern Country were denied Grants of their own Lands, whilſt theſe men have given the Improved Lands a<g ref="char:EOLhyphen"/>mongſt themſelves</hi> of which I ſuppoſe Mr. <hi>Hutchinſon</hi> hath complain<g ref="char:EOLhyphen"/>ed. In another, <hi>May</hi> the 16th 1689. he ſays; I muſt confeſs there have been <hi>ill men from New-York,</hi> who have too much ſtudi<g ref="char:EOLhyphen"/>ed the diſeaſe of this people, and both in Courts and Councils, they have not been <hi>treated well.</hi> Thus does <hi>Edward Randolph,</hi> a Bird of the ſame Feather with themſelves confeſs the truth, as to this matter, concerning <hi>his Brother</hi> Palmer <hi>and</hi> Weſt.</p>
+               </body>
+            </floatingText>
+            <p>And that <hi>Oppreſſive Fees have been extorted by Indigent and Ex<g ref="char:EOLhyphen"/>acting Officers</hi> is declared by Mr. <hi>Hinckley</hi> the preſent Governour of <hi>New-Plymouth</hi> in his <hi>Narrative of the Grievances and Oppreſſi<g ref="char:EOLhyphen"/>ons of Their Majeſties good Subjects in the Colony of</hi> New-Plymouth <hi>in</hi> New-England, <hi>by the Illegal and Arbitrary Actings in the Late Government under Sir</hi> E. A. which <hi>Narrative</hi> is too large to be here inſerted, but it is poſſible it may be publiſhed by it ſelf, whereby it will appear that every corner in the Countrey did ring with complaints of the Oppreſſions, and (to ſpeak in Mr. <hi>Palmer</hi>'s phraſe) <hi>horrible <g ref="char:V">Ʋ</g>ſages</hi> of theſe ill Men. Some paſſages out of Mr. <hi>Hinckley</hi>'s <hi>Narrative</hi> reſpecting this matter, we ſhall here Tranſcribe, whoſe words are theſe which follow.</p>
+            <p>
+               <q>The Bill of Coſt Taxed by Judge <hi>Palmer</hi> ſeems alſo to be the greateſt Extortion ever heard of before, as thrice twenty Shillings for three motions for Judgment at the ſame Term, (and was it not their courteſie they did not move ten times one after another at the ſame rate) and Taxed alſo, <hi>five pound for the Kings Attorney, and one and twenty Shillings for the Judges, and ten Shillings for the Sheriff,</hi> and other particulars as by the ſaid Bill appeareth, and that which makes it the greater Ex<g ref="char:EOLhyphen"/>tortion is, that the whole Bill of Coſt was exacted of every one of them, which each of them muſt pay down, or be kept Priſoners till they did, though all ſeven of them were jointly
+<pb n="35" facs="tcp:96623:21"/>
+informed againſt in one Information. Thus Mr. <hi>Hinckley.</hi>
+               </q>
+            </p>
+            <p>The cry of poor Widows and Fatherleſs is gone up to Hea<g ref="char:EOLhyphen"/>ven againſt them on this account; for the Probate of a Will and Letter of Adminiſtration above fifty Shillings hath been extorted out of the hands of the Poor, nay they have been ſometimes forced to pay more than four Pounds, when not much above a Crown had been due. Let <hi>Andrew Sergeant</hi> and <hi>Joſeph Quilter</hi> among many others ſpeak if this be not true, who were compelled to Travel Two Hundred Miles for the Probate of a Will, and to pay the unreaſonable and oppreſſive Fees complained of,—</p>
+            <p>Beſides theſe things, under Sir <hi>Edmund</hi>'s Government they had wicked ways to extort Money when they pleaſed. Mr. <hi>William Coleman</hi> complains (and hath given his Oath accord<g ref="char:EOLhyphen"/>ingly) that upon the ſuppoſed hired Evidence of one Man he ſuſtained Forty Pound damage in his Eſtate. And there were complaints all over the Countrey that Sir <hi>Edmund</hi>'s <hi>Exciſe-men</hi> would pretend Sickneſs on the Road, and get a Cup of Drink of the Hoſpitable People, but privately drop a piece of Mo<g ref="char:EOLhyphen"/>ney, and afterwards make Oath that they bought Drink at thoſe Houſes, for which the Innocent Perſons were fined moſt unreaſonably, and which was extorted from them, though theſe Villanies were declared and made known to thoſe then in Power. <hi>William Goodhue, James</hi> and <hi>Mary Dennis</hi> might be produced as Witneſſes hereof, with many more. Some of Sir <hi>Edmund</hi>'s Creatures have ſaid, That ſuch things as theſe made <hi>his Govern<g ref="char:EOLhyphen"/>ment to ſtink.</hi> Alſo <hi>John Hovey</hi> and others complain of ſuſtain<g ref="char:EOLhyphen"/>ing Ten Pound damages by the Extortion of Officers, though never any thing (they could hear of) was charged upon them to this day, <hi>John</hi> and <hi>Chriſtopher Of good</hi> complain of their be<g ref="char:EOLhyphen"/>ing ſent to Priſon nine or ten days <hi>without a Mittimus, or any thing laid to their charge,</hi> and that afterwards they were forced to pay exceſſive charges — It would fill a Volume, if we ſhould produce and inſert all the <hi>Affidavits</hi> which do confirm the truth of theſe complaints.</p>
+            <p>In the time of that unhappy Government, if the Officers wanted Money, it was but Seizing and Impriſoning the beſt Men in the Countrey for no fault in the World, and the greedy Officers would hereby have Griſt to their Mill. Thus
+<pb n="36" facs="tcp:96623:22"/>
+was <hi>Major Appleton</hi> dealt with. Thus Captain <hi>Bradſtreet.</hi> Thus that worthy and worſhipful Gentleman <hi>Nathaniel Salſtoriſhal</hi> Eſquire was ſerved by them and <hi>barbarouſly proſecuted,</hi> without any Information or Crime laid to his charge; for he had done nothing worthy of Bonds, but it was the pleaſure of Sir <hi>E.</hi> and ſome others thus to abuſe a Gentleman far more Honoura<g ref="char:EOLhyphen"/>bly deſcended than himſelf, and one concerned in the Govern<g ref="char:EOLhyphen"/>ment of <hi>N. E.</hi> before him, but (to his Eternal Renown) one who refuſed to <hi>accept of an Illegal and Arbitrary Commiſſion,</hi> when in the Reign of the Late K. <hi>James</hi> it was offered to him —</p>
+            <p>We have now ſeen a whole Jury of complaints which con<g ref="char:EOLhyphen"/>cur in their Verdict againſt Sir <hi>E. A.</hi> and his Confederates. Were theſe things to be heard upon the place, where the Wit<g ref="char:EOLhyphen"/>neſſes who gave in their <hi>Affidavits</hi> are reſident, they would a<g ref="char:EOLhyphen"/>mount to legal proof, as to every particular which was by <hi>the Agents of the Maſſachuſetts Colony in</hi> N. E. objected againſt Sir <hi>E. A.</hi> and others Seized and Secured by the people there.</p>
+            <p>Moreover, there are other matters referring to Sir <hi>E. A.</hi> which cauſed great, and almoſt Univerſal Jealouſie of him. For, 1. His Commiſſion was ſuch as would make any one believe that a Courtier in the time of the Late King <hi>James</hi> ſpoke true, who ſaid Sir <hi>E. A. was ſent to</hi> New-England <hi>on pur<g ref="char:EOLhyphen"/>poſe to be a Plague to the people there.</hi> For he with three or four more (none of them choſen by the people, but rather by that <hi>Implacable Enemy who proſecuted the</hi> Quo Warranto<hi>'s againſt their Charters,</hi> had power given them to make Laws, and raiſe what Moneys they ſhould think meet for the ſupport of their own Government, and he had power himſelf alone to ſend the beſt and moſt uſeful Men a Thouſand Miles, (and further if he would) out of the Countrey, and to Build Cities and Caſtles (in the Air if he could) and demoliſh them again, and make the Purſes of the Poor people pay for it all. Such a Commiſſi<g ref="char:EOLhyphen"/>on was an unſufferable grievance, and no honeſt Engliſhman would ever have accepted of it, or acted by it —</p>
+            <p>Secondly Jealouſies were augmented by his involving the Countrey in a War with the Indians, by means whereof he hath occaſioned the Ruine of many Families and Plantations; yea the Death, or Captivity of we know not how many Souls. <hi>For he went (with the</hi> Roſe <hi>Frigat, and violently ſeized, and took,
+<pb n="37" facs="tcp:96623:22"/>
+and carried away, in a time of peace all the Houſhold Goods and Merchandiſes of</hi> Monſieur Caſteen <hi>a Frenchman at</hi> Penobſcot <hi>who was Allied to the Indians,</hi> having Married the Daughter of one of their <hi>Princes</hi> whom they call <hi>Sagamores</hi> or <hi>Sachems;</hi> and when this was done, it was eaſie to foreſee, and was generally concluded that the <hi>French</hi> and <hi>Indians</hi> would ſoon be upon the Engliſh, as it quickly came to paſs. After the Flame was kin<g ref="char:EOLhyphen"/>dled, and Barbarous Outrages committed by the Indians, Sir <hi>Edmund</hi>'s managery was ſuch as filled the Countrey with greater fears of an <hi>horrid deſign.</hi> For Bloody Indians whom the Engliſh had ſecured, were not only diſmiſſed, but rather courted than puniſhed by him.</p>
+            <p n="3">3. It cannot be expreſt what juſt and amazing fears ſur<g ref="char:EOLhyphen"/>prized the People of <hi>New-England,</hi> when they had notice of the Late <hi>King James</hi>'s being in <hi>France,</hi> leſt Sir <hi>E. A.</hi> whoſe Governour and Confident he was, ſhould betray them into the Power of the <hi>French King,</hi> other circumſtances con<g ref="char:EOLhyphen"/>curring to ſtrengthen theſe fears. The <hi>Mohawks</hi> and other Indians were in hoſtility againſt the <hi>French,</hi> and it was very advantagious to the Engliſh Intereſt to have it ſo, but Sir <hi>E. cauſed them to make a Peace with the French,</hi> whereby the French Intereſt in thoſe parts was ſtrengthened, and the Eng<g ref="char:EOLhyphen"/>liſh weakened. Mr. <hi>Peter Reverdy</hi> (a French Proteſtant) in his <hi>Memoirs</hi> concerning Sir <hi>E. A.</hi> complains of this.</p>
+            <p>After that Sir <hi>E.A. and his Complices</hi> were ſecured, ſuch reports and informations came to hand, as made <hi>New-England</hi> admire the Divine Providence in accompliſhing what was done againſt the late Oppreſſors. They then ſaw the perſons from whom they ſuſpected the greateſt danger, were now incapable of betraying them—</p>
+            <p>If an unaccountable Inſtinct and Reſolution had not animated the Inhabitants in and about <hi>Boſton,</hi> to ſeize on thoſe few men, the People there believe <hi>N. E.</hi> would have been in the hands not of <hi>King William</hi> but <hi>King Lewis e're this day:</hi> For in <hi>Sept.</hi> 1689. ſeveral Veſſels belonging to <hi>N. E.</hi> were taken near <hi>Canſir</hi> in <hi>America</hi> by ſome French Men of War. The Priſoners ſince at liberty, inform, that the French told them, that there was a Fleet of Ships bound from <hi>France</hi> directly for <hi>Boſton</hi> in <hi>N. E.</hi> but ſome of them were taken by the <hi>Engliſh</hi> Ships of War,
+<pb n="38" facs="tcp:96623:23"/>
+and three or four of them loſt at <hi>New-found-land,</hi> and that Sir <hi>E. A.</hi> had ſent to the French King for them to come over, and the Countrey ſhould be delivered up. And the Lieutenant of a French-man of War profeſſed, that if Sir <hi>E. A.</hi> had not been impriſoned, they would then have gone to <hi>Boſton.</hi> This ſhews what a good Opinion the French had of him, and ſuch reports ſo teſtified made a ſtrange impreſſion on the ſpirits of the People throughout the Countrey: And that the World may ſee we do not write Fictions of our own, the ſubſequent <hi>Affidavits</hi> are produced and here inſerted.</p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>John Langford</hi> of <hi>Salem</hi> teſtifieth, That he being in the Ketch <hi>Margaret</hi> of <hi>Salem, Daniel Gygles</hi> Commander, they were taken by the French Ships off of <hi>Tarbay</hi> in <hi>America</hi> near <hi>Canſir</hi> on <hi>Tueſday</hi> the 17th day of <hi>September</hi> laſt paſt, and being put on board of the Admiral, <hi>viz.</hi> The <hi>Lumbuſcado,</hi> and in the ſaid Ship carried a Priſoner to <hi>Port Royal,</hi> and then did hear ſeveral of the Company on board the ſaid Ship ſay, that they came di<g ref="char:EOLhyphen"/>rectly from <hi>France,</hi> and that there was ten or twelve Sail of them Ships of War that came in company together, but ſome of them were taken upon the Coaſt of <hi>France,</hi> and ſome were loſt ſince, and that they were all bound directly for <hi>N. E.</hi> and that Sir <hi>E. A.</hi> late Governour of <hi>N. E.</hi> had ſent to the French King for them to come over, and the Countrey ſhould be delivered up into his hands, and that they ex<g ref="char:EOLhyphen"/>pected that before they ſhould arrive, it would have been delivered into the hands of the French.</p>
+                  <closer>
+                     <signed>John Langford.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>Benjamin Majery</hi> of <hi>Salem Jerſey-man</hi> alſo teſtifieth, That he being taken the ſame day, and at the ſame place in the <hi>Ketch Diligence, Gilbert Peters</hi> Commander, as is aboveſaid in the Evidence of <hi>John Langford,</hi> he heard the ſame related, by ſe<g ref="char:EOLhyphen"/>veral of the company on board the other French Ship of War that was in company with the <hi>Lumbuſcado;</hi> viz. <hi>The Frugum,</hi> ſo called, that there was ten Sail of them came out directly from <hi>France</hi> together; that Sir <hi>E. A.</hi> late Governour of <hi>N. E.</hi> had ſent to the King of <hi>France</hi> for them to come over, and he would deliver the Countrey into their hands,
+<pb n="39" facs="tcp:96623:23"/>
+and that they were bound directly for <hi>Boſton</hi> in <hi>N. E.</hi> but had loſt moſt of their Ships coming over.</p>
+                  <closer>
+                     <signed>The mark M of <hi>Benjamin Majery.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>John Langford</hi> and <hi>Benjamin Majery</hi> both made Oath to the truth of theſe their reſpective Evidences in <hi>Salem, Novemb.</hi> 23. 1689.</p>
+                     <closer>
+                        <signed>Before me <hi>John Hathorne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>Joſhua Conant</hi> teſtifieth, That he being Commander of the Ketch, <hi>Thomas</hi> and <hi>Mary</hi> of <hi>Salem,</hi> he was taken by three French Ships off from <hi>Tarbay,</hi> near <hi>Canſir,</hi> upon <hi>Tueſday</hi> the 17th of <hi>September</hi> laſt, two of which were Ships of War, the other a Merchant-man, and being put on board the Admiral, <hi>viz.</hi> the <hi>Lumbuſcado,</hi> and therein carried to <hi>Port-Royal,</hi> a Priſo<g ref="char:EOLhyphen"/>ner, Mr. <hi>Mero</hi> told me that the French on board told him, that there was ten Sail of them Ships of War came out in company together from <hi>France,</hi> and that they came directly from <hi>France,</hi> and were bound to <hi>Boſton</hi> in <hi>N. E.</hi> and that Sir <hi>E. A.</hi> had ſent to the French King for them, and that the Countrey was to be delivered up into their hands; but ha<g ref="char:EOLhyphen"/>ving loſt ſeveral of their Ships in their Voyage, and hearing that Sir <hi>E. A.</hi> was taken, and now in hold, ſhould not pro<g ref="char:EOLhyphen"/>ceed at preſent, but threatned what they would do the next Summer.</p>
+                  <closer>
+                     <signed>Joſhuah Conant.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Joſhuah Conant</hi> perſonally appeared before me, and made Oath to the truth of the aboveſaid Evidence.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Salem,</hi>
+                           <date>
+                              <hi> Novemb.</hi> the 23d. 1689.</date>
+                        </dateline>
+                        <signed>
+                           <hi>John Hathorne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>
+                     <hi>Phillip Hilliard</hi> of <hi>Salem, Jerſey-man</hi> teſtifieth, That he was taken by the French in a Ketch belonging to <hi>Salem;</hi> viz. <hi>The Thomas</hi> and <hi>Mary, Joſhua Conant.</hi> Commander off from <hi>Torbay,</hi> near <hi>Canſir,</hi> this Autumn <hi>Septemb.</hi> 17. and being carried on board the <hi>Lumbuſcado,</hi> did on board the ſaid Ship hear ſeveral of the company ſay, that there was about twelve Sail of them Ships of War, came out in company together from, <hi>France,</hi>
+                     <pb n="40" facs="tcp:96623:24"/>
+and were bound directly for <hi>Boſton</hi> in <hi>N. E.</hi> and that Sir <hi>E. A.</hi> the late Governour there had ſent into <hi>France</hi> for them to come over.</p>
+                  <closer>
+                     <signed>The mark 8 of <hi>Phillip Hilliard.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Phillip Hilliard</hi> perſonally appeared before me, and made Oath to the truth of the aboveſaid Evidence. </p>
+                     <closer>
+                        <dateline>
+                           <hi>Salem,</hi>
+                           <date>
+                              <hi> Novemb.</hi> the 23. 1689.</date>
+                        </dateline>
+                        <signed>
+                           <hi>John Hathorne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>James Cocks of Salem Mariner</hi> teſtifieth, That he was taken by the French in the Ketch <hi>Margaret of Salem, Daniel Gygles</hi> Com<g ref="char:EOLhyphen"/>mander on <hi>Tueſday</hi> the 17th of <hi>September</hi> laſt paſt off from <hi>Tarbay</hi> near <hi>Canſir</hi> by two French Ships of War, who had one Merchant-man in company with them, and he being carried on board their Admiral, <hi>viz.</hi> the <hi>Lumbuſcado,</hi> he there met with a man he had known in <hi>London,</hi> one of the ſaid Ships Company, who was a <hi>Biſcay</hi> born, named <hi>Peter Goit,</hi> who told him that there was thirteen Ships of them came out of <hi>France</hi> in company together, and that they were bound directly for <hi>Boſton</hi> in <hi>New-England,</hi> expecting that the Coun<g ref="char:EOLhyphen"/>trey was before, or would be at their coming delivered up to the King of <hi>France,</hi> and told him, before they could get clear of the Coaſt of <hi>France,</hi> ſeveral of their Ships were taken by the Engliſh Ships of War, and the reſt of their Fleet taken or diſperſed and loſt about <hi>New-found-land.</hi>
+                  </p>
+                  <closer>
+                     <signed>The mark SS of <hi>James Cocks.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>James Cocks</hi> perſonally appeared before me, and made Oath to the truth of the aboveſaid Evidence.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Salem,</hi>
+                           <date> 
+                              <hi>Nov.</hi> 23. 1689.</date>
+                        </dateline>
+                        <signed>
+                           <hi>John Hathorne</hi> Aſſiſtant.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>But as to one of the Crimes objected againſt Sir <hi>E. A.</hi> and his Arbitrary Complices, <hi>Habemus confitentem reum.</hi> Mr. <hi>Palmer cannot deny but that they levied moneys on the King's Subjects in</hi> New-England, <hi>contrary to the fundamentals of the Engliſh Govern<g ref="char:EOLhyphen"/>ment,</hi> which doth not allow the impoſition of Taxes without a <hi>Parliament.</hi> The <hi>New-Englanders</hi> ſuppoſed that their late
+<pb n="41" facs="tcp:96623:24"/>
+Oppreſſors had been guilty of no leſs than a capital Crime by their raiſing Money in ſuch a way as they did; and we are aſſured that one of them after he received, and before he act<g ref="char:EOLhyphen"/>ed by vertue of his illegal Commiſſion from the Late King, profeſſed, that <hi>if ever he had an hand in raiſing a penny of Money without an Aſſembly, his neck ſhould go for it;</hi> and yet no man that we know of had a deeper hand in it than this perſon had. But Mr. <hi>Palmer,</hi> for the juſtification of this ſo foul a buſineſs, laies down ſeveral Poſitions which he would have no man deny; One of his Poſitions is, <hi>That it is a fundamental Point con<g ref="char:EOLhyphen"/>ſented to by all Chriſtian Nations, That the firſt diſcoverer of a Countrey inhabited by Infidels, gives a right and dominion of that Countrey to the Prince in whoſe ſervice and employment the diſco<g ref="char:EOLhyphen"/>verers were ſent.</hi> Theſe are his words, <hi>p.</hi> 17. We affirm, that this <hi>fundamental Point</hi> (as he calls it) is not a <hi>Chriſtian,</hi> but <hi>an unchriſtian Principle.</hi> It is controverted among the School-men, <hi>an dominium fundatur in gratiâ, Papiſts are</hi> (as Mr. <hi>Palmer</hi> is) for the <hi>affirmative,</hi> but the <hi>Scripture teaches us to believe</hi> that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Heathen Nations, <hi>and the Sons of Adam,</hi> and not <hi>the Children of Iſrael</hi> only, have a right to the Earth, and to the Inheritance which God hath given them therein, <hi>Deut.</hi> 32.8. When Mr. <hi>Palmer</hi> hath prov'd that <hi>Infidels</hi> are not the <hi>Sons of Adam,</hi> we ſhall conſent to his notion, that Chriſtians may invade their Rights, and take their Lands from them, and give them to whom they pleaſe, and that the <hi>Pope</hi> may give all <hi>America</hi> to the <hi>King of Spain.</hi> But let him know, that the firſt Planters in <hi>New-England,</hi> had more of conſcience and the fear of God in them, than it ſeems Mr. <hi>Palmer</hi> hath. For they were not willing to <hi>wrong the Indians in their Properties;</hi> for which cauſe it was that they purchaſed from the Natives their right to the Soil in that part of the World, notwith<g ref="char:EOLhyphen"/>ſtanding what right they had by vertue of their Charters from the Kings of <hi>England.</hi> Mr. <hi>Palmer</hi>'s Poſition is clearly againſt <hi>Jus Gentium &amp; Jus Naturale,</hi> which inſtructs every man, <hi>Nemini injuriam facere.</hi> He that ſhall violently, and with<g ref="char:EOLhyphen"/>out any juſt cauſe take from Infidels their Lands, where they plant, and by which they ſubſiſt, does them manifeſt injury. And let us know of Mr. <hi>Palmer</hi> if <hi>Chriſtian</hi> Princes have power to diſpoſe of the Lands belonging to <hi>Infidels</hi> in the
+<pb n="42" facs="tcp:96623:25"/>
+               <hi>Weſt-Indies,</hi> whether they have the like Dominion over the Lands belonging to the <hi>Infidels in the Eaſt-Indies,</hi> and if theſe <hi>Infidels</hi> ſhall refuſe to conſent that ſuch <hi>Chriſtians</hi> ſhall poſſeſs their Lands, that then they may lawfully <hi>Vi &amp; Armis</hi> expel or deſtroy them, as the <hi>Spaniards</hi> did! We may ſend Mr. <hi>Pal<g ref="char:EOLhyphen"/>mer</hi> for further inſtruction in this point to <hi>Balaam's Aſs,</hi> which ingenuouſly acknowledged that her Maſter (though an Infidel) had a Property in, and right of Dominion over her, <hi>Numb.</hi> 22.30. But this <hi>Gentleman</hi> hath ſome other <hi>Aſſertions</hi> which he would have us take for <hi>poſtulata,</hi> and then we ſhall be his <hi>Slaves</hi> without all peradventures. He tells us in page 17, 18, 19. that the <hi>Engliſh Plantations (in particular</hi> New-England) <hi>are no parts of the Empire of</hi> England, <hi>but like</hi> Wales <hi>and</hi> Ireland, <hi>which were Conquered, and belong to the Dominion of the Crown of</hi> England, <hi>and that therefore he that wears the Crown, may ſet up Governments over them, which are Deſpotick and Abſolute, without any regard to</hi> Magna Charta, <hi>and that whereas in</hi> Barbadoes, Ja<g ref="char:EOLhyphen"/>maica, Virginia, <hi>&amp;c. they have their Aſſemblies, that's only from the favour of the Prince, and not that they could pretend Right to ſuch Priviledges of Engliſhmen.</hi>
+            </p>
+            <p>And now we need no further <hi>diſcovery of the man.</hi> Could the people of <hi>N. E.</hi> who are zealous for Engliſh Liberties ever en<g ref="char:EOLhyphen"/>dure it long, that ſuch a perſon as this ſhould be made one of their <hi>Judges,</hi> that ſo by ſqueezing them, he might be able to pay his <hi>Debts?</hi> And can any rational man believe, that perſons of ſuch Principles did not <hi>Tyrannize</hi> over that people when once they had them in their cruel Clutches, and could pretend the Authority of the late King <hi>James</hi> for what they did? In our opi<g ref="char:EOLhyphen"/>nion Mr. <hi>Palmer</hi> hath not done like a Wiſe man thus to expoſe himſelf to the juſt reſentments and indignation of all the <hi>Engliſh Plantations.</hi> If ever it ſhould be his chance to be amongſt them again, what could he expect but to be lookt on as <hi>communis Hoſtis,</hi> when he thus openly declares that they have no Engliſh Liber<g ref="char:EOLhyphen"/>ties belonging to them? —That worthy Gentleman Sir <hi>William Jones</hi> (who was <hi>Attorney General</hi> in the Reign of King <hi>Charles</hi> the ſecond) had certainly more underſtanding in the Law than Captain <hi>Palmer,</hi> and yet Captain <hi>Palmer</hi> (we ſuppoſe) is not ignorant that when ſome propoſed, that <hi>Jamaica</hi> (and ſo the other Plantations) might be governed without an Aſſembly,
+<pb n="43" facs="tcp:96623:25"/>
+               <hi>that excellent Attorney</hi> (not like Captain <hi>Palmer</hi> but like an Engliſhman) told the then King, <hi>That he could no more Grant a Commiſſion to Levy Money on his Subjects there without their con<g ref="char:EOLhyphen"/>ſent by an Aſſembly, than they could diſcharge themſelves from their Allegiance to the Engliſh Crown;</hi> and what Engliſhmen in their right Wits will venture their Lives over the Seas to enlarge the Kings Dominions, and to enrich and greaten the Engliſh Nation, if all the reward they ſhall have for their coſt and adventures ſhall be their being deprived of <hi>Engliſh Liberties,</hi> and in the ſame condition with the <hi>Slaves</hi> in <hi>France</hi> or in <hi>Turky!</hi> And if <hi>the Colonies of</hi> N. E. <hi>are not to be eſteemed as parts of</hi> England, <hi>why then were the</hi> Quo Warranto<hi>'s</hi> iſſued out againſt the Government in <hi>Boſton</hi> as belonging to <hi>Westminster</hi> in <hi>Middleſex!</hi> Are the Engliſh there, like the <hi>Welſh</hi> and <hi>Iriſh</hi> a Conquered people? When Mr. <hi>Palmer</hi> hath proved that, he hath ſaid ſomething. They have (through the Mercy of God) obtained Conqueſts over many of their Enemies, both <hi>Indians</hi> and <hi>French,</hi> to the Enlargement of the Engliſh Domi<g ref="char:EOLhyphen"/>nions. But except Mr. <hi>Palmer</hi> and the reſt of that Crew will ſay, That his and their <hi>domincering</hi> a while was a <hi>Conqueſt,</hi> they were never yet a <hi>Conquered People.</hi> So that his alledging the caſe of <hi>Wales</hi> and <hi>Ireland</hi> before Engliſh Liberties were granted to them, is an impertinent Story. Beſides, he forgets that there was <hi>an Original Contract</hi> between the King and the firſt Planters in <hi>New-England,</hi> the King promiſing them, if they at their own coſt and charge would ſubdue a Wilderneſs, and enlarge his Dominions, they and their Poſterity after them ſhould enjoy ſuch Priviledges as are in their Charters expreſſed, of which that of not having Taxes impoſed on them without their own conſent was one. Mr. <hi>Palmer</hi> and his <hi>Brethren Op<g ref="char:EOLhyphen"/>preſſors</hi> will readily reply, Their <hi>Charter</hi> was condemned. But he cannot think, that the Judgment againſt their Charter made them ceaſe to be <hi>Engliſhmen.</hi> And only the Colony of the <hi>Maſſachuſetts</hi> had their Charter condemned. And yet theſe Men ventured to Levy Moneys on the Kings Subjects in <hi>Con<g ref="char:EOLhyphen"/>necticott Colony.</hi> For the which <hi>Invaſion of Liberty and Property</hi> they can never anſwer. Indeed they ſay the Corporation of <hi>Connecticott ſurrendred their Charter.</hi> But who told them ſo? It is certain, that no one belonging to the Government there,
+<pb n="44" facs="tcp:96623:26"/>
+knoweth of any ſuch thing; and how their Oppreſſors ſhould know that <hi>Connecticott</hi> made a Surrender of their Charter when the Perſons concerned know nothing of it, is very ſtrange. We can produce that written by the Secretary of that Colony with his own Hand, and alſo Signed by the preſent Governour there, which declares the contrary to what theſe Men (as un<g ref="char:EOLhyphen"/>truly as boldly) affirm. Witneſs the words following.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>In the Second year of the Reign of King <hi>James</hi> the Second, we had a <hi>Quo Warranto</hi> ſerved upon us by <hi>Edward Randolph,</hi> requiring our appearance before His Majeſties Courts in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and although the time of our appearance was elapſed be<g ref="char:EOLhyphen"/>fore the ſerving of the ſaid <hi>Quo Warranto,</hi> yet we humbly pe<g ref="char:EOLhyphen"/>titioned His Majeſty for his Favour, and the continuance of our Charter with the Priviledges thereof. But we received no other favour but a ſecond <hi>Quo Warranto,</hi> and we well ob<g ref="char:EOLhyphen"/>ſerving that the <hi>Charter of London</hi> and other conſiderable Ci<g ref="char:EOLhyphen"/>ties in <hi>England</hi> were condemned, and that <hi>the Charter of the Maſſachuſetts</hi> had undergone the like Fate, plainly ſaw what we might expect, <hi>yet we not judging it good or lawful to be active in ſurrendring what</hi> had coſt us ſo dear, nor to be altogether ſi<g ref="char:EOLhyphen"/>lent, we empowered an Attorney to appear on our behalf, and to preſent our Humble Addreſs to His Majeſty, but quick<g ref="char:EOLhyphen"/>ly upon it as Sir <hi>E. A. informed us,</hi> he was empowered by His Majeſty to Receive <hi>the Surrender of our Charter,</hi> if we ſaw meet ſo to do, and us alſo to take under his Government. <hi>Alſo Colonel Thomas Dungan</hi> His Majeſties Governour of <hi>New-York,</hi> laboured to gain us over to his Government. <hi>We with<g ref="char:EOLhyphen"/>ſtood all theſe motions,</hi> and in our reiterated Addreſſes, we Peti<g ref="char:EOLhyphen"/>tioned His Majeſty to continue us in the free and full enjoy<g ref="char:EOLhyphen"/>ment of our Liberties and Properties, Civil and Sacred, ac<g ref="char:EOLhyphen"/>cording to our Charter. We alſo Petitioned that if His Ma<g ref="char:EOLhyphen"/>jeſty ſhould not ſee meet to continue us as we were, but was reſolved to annex us to ſome other Government; we then de<g ref="char:EOLhyphen"/>ſired that in as much as <hi>Boſton</hi> had been our old Correſpon<g ref="char:EOLhyphen"/>dents, and a people whoſe Principles and Manners we had been acquainted with, we might rather be annexed to Sir <hi>E. A.</hi> his Government, than to Colonel <hi>Dungans,</hi> which choice of ours was <hi>taken for a reſignation of our Charter, though that was never intended by us for ſuch, nor had it the Formalities
+<pb n="45" facs="tcp:96623:26"/>
+in Law to make it ſuch.</hi> Yet Sir <hi>E. A.</hi> was Commiſſionated to take us under his Government, purſuant to which about the end of <hi>October</hi> 1687. he with a Company of <hi>Gentlemen and Gra<g ref="char:EOLhyphen"/>nadeers</hi> to the number of Sixty or upwards came to <hi>Hartford</hi> the Chief Seat of this Government, <hi>cauſed his Commiſſion to be read, and declared our Government to be diſſolved,</hi> and put into Commiſſion both Civil and Military Officers throughout our Colony as he pleaſed. When he paſſed through the principal parts thereof, the good people of the Colony though they were under a great ſenſe of the injuries ſuſtained thereby, yet choſe rather to be ſilent and patient than to oppoſe, being in<g ref="char:EOLhyphen"/>deed ſurprized into <hi>an involuntary ſubmiſſion</hi> to an Arbitrary Power —</p>
+                  <closer>
+                     <signed>Robert Treat <hi>Governour.</hi> John Allen <hi>Secretary.</hi>
+                     </signed> 
+                     <dateline>
+                        <hi>Hartford,</hi> 
+                        <date>June <hi>13. 1689.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Thus did Sir <hi>E. A.</hi> and his Creatures, who were deeply con<g ref="char:EOLhyphen"/>cerned in the Illegal Actions of the Late Unhappy Reigns, con<g ref="char:EOLhyphen"/>trary to the Laws of God and Men, commit a Rape on a whole Colony; for which Violence it is hoped they may account, and make reparation (if poſſible) to thoſe many whoſe Pro<g ref="char:EOLhyphen"/>perties as well as Liberties have been Invaded by them —</p>
+            <p>Captain <hi>Palmer</hi> in the cloſe of his <hi>partial account of N. E.</hi> en<g ref="char:EOLhyphen"/>tertains his Readers with an <hi>harangue</hi> about the <hi>Sin of Rebellion,</hi> and miſapplies ſeveral Scriptures that ſo he might make the World believe that the people of <hi>N. E.</hi> have been guilty of wicked <hi>Rebellion</hi> by their caſting off the Arbitrary Power of thoſe ill men who invaded Liberty and Property to ſuch an in<g ref="char:EOLhyphen"/>tolerable degree as hath been proved againſt them. But does he in ſober ſadneſs think, that if when Wolves are got among Sheep in a Wilderneſs, the Shepherds and Principal men there ſhall keep them from Ravening, that this is the Sin of Rebellion condemned in the Scripture? How or by whoſe Authority our <hi>Lawyer</hi> comes to play the <hi>Divine</hi> we know not. But ſince he hath thought meet to take a Spiritual Weapon into his hand, let him know that the Scripture ſpeaks of a lawful and good <hi>Rebellion,</hi> as well as of that which is unlawful. It is ſaid of good <hi>Hezekiah that he Rebelled againſt the King of Aſſyria and ſerved him not,</hi>
+               <pb n="46" facs="tcp:96623:27"/>
+2 <hi>Kings</hi> 18.7. Indeed reviling <hi>Rabſhakch</hi> upbraided him, and ſaid as in <hi>verſe</hi> 20. <hi>thou Rebelleſt</hi> (not unlike to Captain <hi>Palmer</hi>) ſay<g ref="char:EOLhyphen"/>ing to <hi>N. E. thou rebelleſt. Hezekiahs</hi> predeceſſours had baſely given away the Liberties of the people, and ſubmitted to the <hi>Arbitrary Power</hi> of the <hi>Aſſyrians,</hi> and therefore <hi>Hezekiah</hi> did like a worthy Prince in caſting off a Tyrannical Government, and aſſerting the Liberty of them that were the Lords People, and God did ſignally own and proſper him in what he did, and would never permit the <hi>Aſſyrian</hi> to regain his Tyrannical Power over <hi>Jeruſalem</hi> or the Land of <hi>Judah,</hi> though for their tryal he permitted their Enemies to make ſome Devaſtations among them. The like (we hope) may be the happy caſe of <hi>New Eng<g ref="char:EOLhyphen"/>land.</hi> Mr. <hi>Palmer</hi> tells us, that <hi>N. E. hath valued it ſelf for the true profeſſion and pure exerciſe of the Proteſtant Religion,</hi> but he in<g ref="char:EOLhyphen"/>timates that they will be <hi>termed a Land full of Hypocriſie and Re<g ref="char:EOLhyphen"/>bellion, Irreligion, and a degenerate wicked people, p.</hi> 39. And is this the <hi>Sincerity and Chriſtian Moderation</hi> which he boaſts himſelf of in his Preface? Surely theſe are the <hi>Hiſſings of the Old Serpent</hi> and do ſufficiently indicate whoſe Children the men are that uſe them. Since he will be at Divinity, let him (if he can) read the <hi>Apologies</hi> written by <hi>Juſtin Martyr,</hi> and <hi>Tertullian</hi> and there ſee if <hi>Pagans</hi> did not accuſe <hi>Chriſtians</hi> of Old juſt after the ſame manner, and with the ſame Crimes that he wickedly upbraids that Good and Loyal People with. Who are they that uſe to call the Holieſt and moſt Conſcientious men in the World, <hi>Hypo<g ref="char:EOLhyphen"/>crites, Liars, Rebels, and what not?</hi> but they that are themſelves the greateſt <hi>Hypocrites, Liars, and Rebels</hi> againſt Heaven that the Earth does bear? It is hard to believe that Captain <hi>Palmer</hi> does not rebel againſt the light of his own Conſcience, when he affirms as in Page (38) that in <hi>N. E. every thing that hath any relations to their Majeſties is neglected, and unregarded without any recogni<g ref="char:EOLhyphen"/>tion of their Authority over thoſe dominions.</hi> He cannot be ignorant of the humble <hi>Addreſſes</hi> which the people in <hi>N. E.</hi> have from time to time made to their preſent Majeſties, acknowledging their Authority. He knows that on the firſt notice of their Ma<g ref="char:EOLhyphen"/>jeſties being proclaimed <hi>King</hi> and <hi>Queen</hi> in <hi>England,</hi> both thoſe now in Government in <hi>N. E.</hi> and the body of the people with them, did (without any command) of their own accord, with the greateſt Joy proclaim their Majeſties in <hi>N. E.</hi> he knows
+<pb n="47" facs="tcp:96623:27"/>
+that their Majeſties have no ſubjects more cordially and zealouſly devoted to them than thoſe in <hi>N.E.</hi> are, or that do with greater fervour pray for their long and happy Reigns, or that are more willing to expoſe themſelves to the utmoſt hazards in their ſer<g ref="char:EOLhyphen"/>vice, and yet this man that knoweth all this, to caſt an <hi>Odium</hi> on that Loyal and Good people, inſinuates as if they were <hi>Rebels,</hi> and <hi>diſaffected</hi> to the Preſent Government, and deſigned to ſet up an <hi>Independant Common Wealth,</hi> and had <hi>no regard to the Laws of God or Men.</hi> After this lying and malicious rate hath he ex<g ref="char:EOLhyphen"/>preſt himſelf— What Rational Charity can be extended ſo far as to believe that 'tis poſſible for him to think that what himſelf hath written is true? When <hi>Sanballat</hi> wrote that <hi>Nehemiah</hi> and the Jews with him <hi>intended to Rebel,</hi> did he believe what he had written? no, he did not, but <hi>feigned thoſe things out of his own heart.</hi> The like is to be ſaid of thoſe <hi>Sanballats</hi> that accuſe the people of <hi>N. E.</hi> with thoughts of Rebellion. And ſo we have done with Mr. <hi>Palmer.</hi> What hath been ſaid is ſufficient to <hi>juſtify</hi> the <hi>Revolution</hi> in <hi>N. E.</hi> and to <hi>vindicate the People</hi> there from the Aſperſions caſt upon them by their Enemies. Seve<g ref="char:EOLhyphen"/>ral Worthy Gentlemen have under their hands given an account concerning ſome of Sir <hi>Edmund</hi>'s <hi>Arbitrary proceedings,</hi> which is ſubſcribed by five (and more would have concurred with them had there been time to have communicated it) of thoſe who were of Sir <hi>Edmunds</hi> Council during his Government there, and for that cauſe their complaints carry the more weight with them, which ſhall therefore as a Concluſion be here ſub<g ref="char:EOLhyphen"/>joined.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="48" facs="tcp:96623:28"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THere is ſuch <hi>Notoriety</hi> as to Matter of Fact in the preceding <hi>Relation,</hi> that they who Live in <hi>New-England</hi> are ſatify'd concerning the Particulars contained therein. If any in <hi>England</hi> ſhould Heſitate, they may pleaſe to underſtand that Mr. <hi>Eliſha Cooke,</hi> and Mr. <hi>Thomas Oakes</hi> (who were the laſt Year ſent from <hi>Boſton</hi> to appear as Agents in behalf of the <hi>Maſſachuſetts Colony</hi>) have by them Atteſted Copies of the <hi>Affidavits</hi> (at leaſt wiſe of moſt of them) which are in this <hi>Vindi<g ref="char:EOLhyphen"/>cation</hi> publiſhed, and are ready (if occaſion ſerve) to produce them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96623:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
